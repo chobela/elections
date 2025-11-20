@@ -12,6 +12,8 @@ const ElectionMap = ({ electionResults }) => {
   const [hoveredConstituency, setHoveredConstituency] = useState(null);
   const [selectedConstituency, setSelectedConstituency] = useState(null);
   const [geojsonData, setGeojsonData] = useState(null);
+  const [wardData, setWardData] = useState(null);
+  const [showWards, setShowWards] = useState(false);
   const mapRef = useRef();
 
   useEffect(() => {
@@ -41,7 +43,57 @@ const ElectionMap = ({ electionResults }) => {
     const feature = event.features && event.features[0];
     if (feature) {
       setSelectedConstituency(feature.properties);
+
+      // Load ward data for this constituency
+      const constName = feature.properties.ConstName;
+      const filename = constName.replace(/\s+/g, '_').replace(/\//g, '_').toUpperCase();
+
+      fetch(`/wards/${filename}.geojson`)
+        .then(response => response.json())
+        .then(data => {
+          setWardData(data);
+          setShowWards(true);
+
+          // Zoom to constituency bounds
+          const bounds = feature.properties.bounds || calculateBounds(data);
+          if (mapRef.current && bounds) {
+            mapRef.current.fitBounds(bounds, {
+              padding: 50,
+              duration: 1000
+            });
+          }
+        })
+        .catch(error => {
+          console.error(`No ward data found for ${constName}:`, error);
+          setWardData(null);
+          setShowWards(false);
+        });
     }
+  };
+
+  const calculateBounds = (geojson) => {
+    if (!geojson || !geojson.features || geojson.features.length === 0) return null;
+
+    let minLng = Infinity, minLat = Infinity, maxLng = -Infinity, maxLat = -Infinity;
+
+    geojson.features.forEach(feature => {
+      const coords = feature.geometry.coordinates;
+      const flatten = (arr) => {
+        arr.forEach(item => {
+          if (Array.isArray(item[0])) {
+            flatten(item);
+          } else {
+            minLng = Math.min(minLng, item[0]);
+            maxLng = Math.max(maxLng, item[0]);
+            minLat = Math.min(minLat, item[1]);
+            maxLat = Math.max(maxLat, item[1]);
+          }
+        });
+      };
+      flatten(coords);
+    });
+
+    return [[minLng, minLat], [maxLng, maxLat]];
   };
 
   const onMouseMove = (event) => {
@@ -129,16 +181,107 @@ const ElectionMap = ({ electionResults }) => {
         onClick={onClick}
         onMouseMove={onMouseMove}
       >
-        {enhancedGeojsonData && (
+        {!showWards && enhancedGeojsonData && (
           <Source type="geojson" data={enhancedGeojsonData}>
             <Layer {...dataLayer} />
             <Layer {...outlineLayer} />
           </Source>
         )}
+
+        {showWards && wardData && (
+          <Source type="geojson" data={wardData}>
+            <Layer
+              id="wards"
+              type="fill"
+              paint={{
+                "fill-color": "#3498db",
+                "fill-opacity": 0.3,
+              }}
+            />
+            <Layer
+              id="ward-outline"
+              type="line"
+              paint={{
+                "line-color": "#2c3e50",
+                "line-width": 2,
+              }}
+            />
+            <Layer
+              id="ward-labels"
+              type="symbol"
+              layout={{
+                "text-field": ["get", "wardName"],
+                "text-size": 12,
+                "text-anchor": "center",
+              }}
+              paint={{
+                "text-color": "#2c3e50",
+                "text-halo-color": "#ffffff",
+                "text-halo-width": 2,
+              }}
+            />
+          </Source>
+        )}
       </Map>
 
+      {/* Back to All Constituencies Button */}
+      {showWards && (
+        <div
+          style={{
+            position: "absolute",
+            top: 20,
+            left: 20,
+            zIndex: 1000,
+            display: "flex",
+            flexDirection: "column",
+            gap: "10px",
+          }}
+        >
+          <button
+            onClick={() => {
+              setShowWards(false);
+              setWardData(null);
+              setSelectedConstituency(null);
+              setViewState({
+                longitude: 28.3,
+                latitude: -13.5,
+                zoom: 5.5,
+              });
+            }}
+            style={{
+              background: "#2c3e50",
+              color: "white",
+              border: "none",
+              padding: "12px 24px",
+              borderRadius: "5px",
+              cursor: "pointer",
+              fontSize: "14px",
+              fontWeight: "bold",
+              boxShadow: "0 2px 5px rgba(0,0,0,0.2)",
+            }}
+          >
+            ← Back to All Constituencies
+          </button>
+          <div
+            style={{
+              background: "rgba(255, 255, 255, 0.95)",
+              padding: "12px 16px",
+              borderRadius: "5px",
+              boxShadow: "0 2px 5px rgba(0,0,0,0.2)",
+            }}
+          >
+            <p style={{ margin: 0, fontSize: "14px", color: "#2c3e50" }}>
+              <strong>{selectedConstituency?.ConstName}</strong>
+            </p>
+            <p style={{ margin: "5px 0 0 0", fontSize: "12px", color: "#666" }}>
+              {wardData?.features?.length || 0} Wards
+            </p>
+          </div>
+        </div>
+      )}
+
       {/* Hover Tooltip */}
-      {hoveredConstituency && (
+      {hoveredConstituency && !showWards && (
         <div
           style={{
             position: "absolute",
@@ -251,7 +394,7 @@ const ElectionMap = ({ electionResults }) => {
       </div>
 
       {/* Selected Constituency Detail Panel */}
-      {selectedConstituency && (
+      {selectedConstituency && !showWards && (
         <div
           style={{
             position: "absolute",
