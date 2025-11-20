@@ -1,0 +1,752 @@
+[
+  {
+    "name": "Bahati",
+    "filename": "BAHATI.geojson",
+    "wardCount": 7
+  },
+  {
+    "name": "Bangeulu",
+    "filename": "BANGEULU.geojson",
+    "wardCount": 8
+  },
+  {
+    "name": "Bwacha",
+    "filename": "BWACHA.geojson",
+    "wardCount": 14
+  },
+  {
+    "name": "Bwana Mkubwa",
+    "filename": "BWANA_MKUBWA.geojson",
+    "wardCount": 7
+  },
+  {
+    "name": "Bweengwa",
+    "filename": "BWEENGWA.geojson",
+    "wardCount": 7
+  },
+  {
+    "name": "Chadiza",
+    "filename": "CHADIZA.geojson",
+    "wardCount": 12
+  },
+  {
+    "name": "Chama North",
+    "filename": "CHAMA_NORTH.geojson",
+    "wardCount": 12
+  },
+  {
+    "name": "Chama South",
+    "filename": "CHAMA_SOUTH.geojson",
+    "wardCount": 10
+  },
+  {
+    "name": "Chasefu",
+    "filename": "CHASEFU.geojson",
+    "wardCount": 9
+  },
+  {
+    "name": "Chavuma",
+    "filename": "CHAVUMA.geojson",
+    "wardCount": 13
+  },
+  {
+    "name": "Chawama",
+    "filename": "CHAWAMA.geojson",
+    "wardCount": 4
+  },
+  {
+    "name": "Chembe",
+    "filename": "CHEMBE.geojson",
+    "wardCount": 13
+  },
+  {
+    "name": "Chiengi",
+    "filename": "CHIENGI.geojson",
+    "wardCount": 13
+  },
+  {
+    "name": "Chifubu",
+    "filename": "CHIFUBU.geojson",
+    "wardCount": 5
+  },
+  {
+    "name": "Chifunabuli",
+    "filename": "CHIFUNABULI.geojson",
+    "wardCount": 10
+  },
+  {
+    "name": "Chikankanta",
+    "filename": "CHIKANKANTA.geojson",
+    "wardCount": 8
+  },
+  {
+    "name": "Chilanga",
+    "filename": "CHILANGA.geojson",
+    "wardCount": 6
+  },
+  {
+    "name": "Chililabombwe",
+    "filename": "CHILILABOMBWE.geojson",
+    "wardCount": 22
+  },
+  {
+    "name": "Chilubi",
+    "filename": "CHILUBI.geojson",
+    "wardCount": 22
+  },
+  {
+    "name": "Chimbamilonga",
+    "filename": "CHIMBAMILONGA.geojson",
+    "wardCount": 11
+  },
+  {
+    "name": "Chimwemwe",
+    "filename": "CHIMWEMWE.geojson",
+    "wardCount": 6
+  },
+  {
+    "name": "Chingola",
+    "filename": "CHINGOLA.geojson",
+    "wardCount": 17
+  },
+  {
+    "name": "Chinsali",
+    "filename": "CHINSALI.geojson",
+    "wardCount": 10
+  },
+  {
+    "name": "Chipangali",
+    "filename": "CHIPANGALI.geojson",
+    "wardCount": 6
+  },
+  {
+    "name": "Chipata",
+    "filename": "CHIPATA.geojson",
+    "wardCount": 4
+  },
+  {
+    "name": "Chipili",
+    "filename": "CHIPILI.geojson",
+    "wardCount": 6
+  },
+  {
+    "name": "Chisamba",
+    "filename": "CHISAMBA.geojson",
+    "wardCount": 6
+  },
+  {
+    "name": "Chitambo",
+    "filename": "CHITAMBO.geojson",
+    "wardCount": 7
+  },
+  {
+    "name": "Choma",
+    "filename": "CHOMA.geojson",
+    "wardCount": 10
+  },
+  {
+    "name": "Chongwe",
+    "filename": "CHONGWE.geojson",
+    "wardCount": 10
+  },
+  {
+    "name": "Dundumwezi",
+    "filename": "DUNDUMWEZI.geojson",
+    "wardCount": 6
+  },
+  {
+    "name": "Feira",
+    "filename": "FEIRA.geojson",
+    "wardCount": 15
+  },
+  {
+    "name": "Gwembe",
+    "filename": "GWEMBE.geojson",
+    "wardCount": 14
+  },
+  {
+    "name": "Ikelenge",
+    "filename": "IKELENGE.geojson",
+    "wardCount": 6
+  },
+  {
+    "name": "Isoka",
+    "filename": "ISOKA.geojson",
+    "wardCount": 8
+  },
+  {
+    "name": "Itezhi Tezhi",
+    "filename": "ITEZHI_TEZHI.geojson",
+    "wardCount": 13
+  },
+  {
+    "name": "Kabompo East",
+    "filename": "KABOMPO_EAST.geojson",
+    "wardCount": 9
+  },
+  {
+    "name": "Kabompo West",
+    "filename": "KABOMPO_WEST.geojson",
+    "wardCount": 13
+  },
+  {
+    "name": "Kabushi",
+    "filename": "KABUSHI.geojson",
+    "wardCount": 8
+  },
+  {
+    "name": "Kabwata",
+    "filename": "KABWATA.geojson",
+    "wardCount": 5
+  },
+  {
+    "name": "Kabwe Central",
+    "filename": "KABWE_CENTRAL.geojson",
+    "wardCount": 12
+  },
+  {
+    "name": "Kafue",
+    "filename": "KAFUE.geojson",
+    "wardCount": 11
+  },
+  {
+    "name": "Kafulafuta",
+    "filename": "KAFULAFUTA.geojson",
+    "wardCount": 7
+  },
+  {
+    "name": "Kalabo",
+    "filename": "KALABO.geojson",
+    "wardCount": 10
+  },
+  {
+    "name": "Kalomo Central",
+    "filename": "KALOMO_CENTRAL.geojson",
+    "wardCount": 9
+  },
+  {
+    "name": "Kalulushi",
+    "filename": "KALULUSHI.geojson",
+    "wardCount": 22
+  },
+  {
+    "name": "Kamfinsa",
+    "filename": "KAMFINSA.geojson",
+    "wardCount": 3
+  },
+  {
+    "name": "Kanchibiya",
+    "filename": "KANCHIBIYA.geojson",
+    "wardCount": 10
+  },
+  {
+    "name": "Kankoyo",
+    "filename": "KANKOYO.geojson",
+    "wardCount": 8
+  },
+  {
+    "name": "Kantanshi",
+    "filename": "KANTANSHI.geojson",
+    "wardCount": 10
+  },
+  {
+    "name": "Kanyama",
+    "filename": "KANYAMA.geojson",
+    "wardCount": 3
+  },
+  {
+    "name": "Kaoma Central",
+    "filename": "KAOMA_CENTRAL.geojson",
+    "wardCount": 7
+  },
+  {
+    "name": "Kapiri Mposhi",
+    "filename": "KAPIRI_MPOSHI.geojson",
+    "wardCount": 14
+  },
+  {
+    "name": "Kapoche",
+    "filename": "KAPOCHE.geojson",
+    "wardCount": 8
+  },
+  {
+    "name": "Kaputa",
+    "filename": "KAPUTA.geojson",
+    "wardCount": 11
+  },
+  {
+    "name": "Kasama",
+    "filename": "KASAMA.geojson",
+    "wardCount": 8
+  },
+  {
+    "name": "Kasempa",
+    "filename": "KASEMPA.geojson",
+    "wardCount": 22
+  },
+  {
+    "name": "Kasenengwa",
+    "filename": "KASENENGWA.geojson",
+    "wardCount": 7
+  },
+  {
+    "name": "Katombola",
+    "filename": "KATOMBOLA.geojson",
+    "wardCount": 14
+  },
+  {
+    "name": "Katuba",
+    "filename": "KATUBA.geojson",
+    "wardCount": 6
+  },
+  {
+    "name": "Kawambwa",
+    "filename": "KAWAMBWA.geojson",
+    "wardCount": 7
+  },
+  {
+    "name": "Keembe",
+    "filename": "KEEMBE.geojson",
+    "wardCount": 10
+  },
+  {
+    "name": "Kwacha",
+    "filename": "KWACHA.geojson",
+    "wardCount": 6
+  },
+  {
+    "name": "Liuwa",
+    "filename": "LIUWA.geojson",
+    "wardCount": 7
+  },
+  {
+    "name": "Livingstone",
+    "filename": "LIVINGSTONE.geojson",
+    "wardCount": 17
+  },
+  {
+    "name": "Luampa",
+    "filename": "LUAMPA.geojson",
+    "wardCount": 8
+  },
+  {
+    "name": "Luangeni",
+    "filename": "LUANGENI.geojson",
+    "wardCount": 5
+  },
+  {
+    "name": "Luanshya",
+    "filename": "LUANSHYA.geojson",
+    "wardCount": 14
+  },
+  {
+    "name": "Luapula",
+    "filename": "LUAPULA.geojson",
+    "wardCount": 4
+  },
+  {
+    "name": "Lubasenshi",
+    "filename": "LUBASENSHI.geojson",
+    "wardCount": 9
+  },
+  {
+    "name": "Luena",
+    "filename": "LUENA.geojson",
+    "wardCount": 8
+  },
+  {
+    "name": "Lufwanyama",
+    "filename": "LUFWANYAMA.geojson",
+    "wardCount": 16
+  },
+  {
+    "name": "Lukashya",
+    "filename": "LUKASHYA.geojson",
+    "wardCount": 9
+  },
+  {
+    "name": "Lukulu East",
+    "filename": "LUKULU_EAST.geojson",
+    "wardCount": 13
+  },
+  {
+    "name": "Lukulu West",
+    "filename": "LUKULU_WEST.geojson",
+    "wardCount": 9
+  },
+  {
+    "name": "Lumezi",
+    "filename": "LUMEZI.geojson",
+    "wardCount": 8
+  },
+  {
+    "name": "Lundazi",
+    "filename": "LUNDAZI.geojson",
+    "wardCount": 8
+  },
+  {
+    "name": "Lunte",
+    "filename": "LUNTE.geojson",
+    "wardCount": 12
+  },
+  {
+    "name": "Lupososhi",
+    "filename": "LUPOSOSHI.geojson",
+    "wardCount": 13
+  },
+  {
+    "name": "Lusaka Central",
+    "filename": "LUSAKA_CENTRAL.geojson",
+    "wardCount": 4
+  },
+  {
+    "name": "Mafinga",
+    "filename": "MAFINGA.geojson",
+    "wardCount": 8
+  },
+  {
+    "name": "Magoye",
+    "filename": "MAGOYE.geojson",
+    "wardCount": 9
+  },
+  {
+    "name": "Malole",
+    "filename": "MALOLE.geojson",
+    "wardCount": 13
+  },
+  {
+    "name": "Mambilima",
+    "filename": "MAMBILIMA.geojson",
+    "wardCount": 8
+  },
+  {
+    "name": "Mambwe",
+    "filename": "MAMBWE.geojson",
+    "wardCount": 1
+  },
+  {
+    "name": "Mandevu",
+    "filename": "MANDEVU.geojson",
+    "wardCount": 7
+  },
+  {
+    "name": "Mangango",
+    "filename": "MANGANGO.geojson",
+    "wardCount": 7
+  },
+  {
+    "name": "Mansa",
+    "filename": "MANSA.geojson",
+    "wardCount": 8
+  },
+  {
+    "name": "Mapatizya",
+    "filename": "MAPATIZYA.geojson",
+    "wardCount": 7
+  },
+  {
+    "name": "Masaiti",
+    "filename": "MASAITI.geojson",
+    "wardCount": 10
+  },
+  {
+    "name": "Matero",
+    "filename": "MATERO.geojson",
+    "wardCount": 5
+  },
+  {
+    "name": "Mazabuka",
+    "filename": "MAZABUKA.geojson",
+    "wardCount": 5
+  },
+  {
+    "name": "Mbabala",
+    "filename": "MBABALA.geojson",
+    "wardCount": 7
+  },
+  {
+    "name": "Mbala",
+    "filename": "MBALA.geojson",
+    "wardCount": 8
+  },
+  {
+    "name": "Mfuwe",
+    "filename": "MFUWE.geojson",
+    "wardCount": 4
+  },
+  {
+    "name": "Milanzi",
+    "filename": "MILANZI.geojson",
+    "wardCount": 10
+  },
+  {
+    "name": "Mkaika",
+    "filename": "MKAIKA.geojson",
+    "wardCount": 8
+  },
+  {
+    "name": "Mkushi North",
+    "filename": "MKUSHI_NORTH.geojson",
+    "wardCount": 11
+  },
+  {
+    "name": "Mkushi South",
+    "filename": "MKUSHI_SOUTH.geojson",
+    "wardCount": 5
+  },
+  {
+    "name": "Mongu",
+    "filename": "MONGU.geojson",
+    "wardCount": 8
+  },
+  {
+    "name": "Monze",
+    "filename": "MONZE.geojson",
+    "wardCount": 11
+  },
+  {
+    "name": "Moomba",
+    "filename": "MOOMBA.geojson",
+    "wardCount": 4
+  },
+  {
+    "name": "Mpika",
+    "filename": "MPIKA.geojson",
+    "wardCount": 7
+  },
+  {
+    "name": "Mpongwe",
+    "filename": "MPONGWE.geojson",
+    "wardCount": 13
+  },
+  {
+    "name": "Mporokoso",
+    "filename": "MPOROKOSO.geojson",
+    "wardCount": 9
+  },
+  {
+    "name": "Mpulungu",
+    "filename": "MPULUNGU.geojson",
+    "wardCount": 13
+  },
+  {
+    "name": "Msanzala",
+    "filename": "MSANZALA.geojson",
+    "wardCount": 7
+  },
+  {
+    "name": "Muchinga",
+    "filename": "MUCHINGA.geojson",
+    "wardCount": 9
+  },
+  {
+    "name": "Mufulira",
+    "filename": "MUFULIRA.geojson",
+    "wardCount": 10
+  },
+  {
+    "name": "Mufumbwe",
+    "filename": "MUFUMBWE.geojson",
+    "wardCount": 16
+  },
+  {
+    "name": "Mulobezi",
+    "filename": "MULOBEZI.geojson",
+    "wardCount": 6
+  },
+  {
+    "name": "Mumbwa",
+    "filename": "MUMBWA.geojson",
+    "wardCount": 9
+  },
+  {
+    "name": "Munali",
+    "filename": "MUNALI.geojson",
+    "wardCount": 5
+  },
+  {
+    "name": "Mwandi",
+    "filename": "MWANDI.geojson",
+    "wardCount": 8
+  },
+  {
+    "name": "Mwansabombwe",
+    "filename": "MWANSABOMBWE.geojson",
+    "wardCount": 8
+  },
+  {
+    "name": "Mwembezhi",
+    "filename": "MWEMBEZHI.geojson",
+    "wardCount": 6
+  },
+  {
+    "name": "Mwense",
+    "filename": "MWENSE.geojson",
+    "wardCount": 8
+  },
+  {
+    "name": "Mwinilunga",
+    "filename": "MWINILUNGA.geojson",
+    "wardCount": 16
+  },
+  {
+    "name": "Nakonde",
+    "filename": "NAKONDE.geojson",
+    "wardCount": 13
+  },
+  {
+    "name": "Nalikwanda",
+    "filename": "NALIKWANDA.geojson",
+    "wardCount": 7
+  },
+  {
+    "name": "Nalolo",
+    "filename": "NALOLO.geojson",
+    "wardCount": 8
+  },
+  {
+    "name": "Namwala",
+    "filename": "NAMWALA.geojson",
+    "wardCount": 14
+  },
+  {
+    "name": "Nangoma",
+    "filename": "NANGOMA.geojson",
+    "wardCount": 7
+  },
+  {
+    "name": "Nchanga",
+    "filename": "NCHANGA.geojson",
+    "wardCount": 10
+  },
+  {
+    "name": "Nchelenge",
+    "filename": "NCHELENGE.geojson",
+    "wardCount": 13
+  },
+  {
+    "name": "Ndola",
+    "filename": "NDOLA.geojson",
+    "wardCount": 8
+  },
+  {
+    "name": "Nkana",
+    "filename": "NKANA.geojson",
+    "wardCount": 7
+  },
+  {
+    "name": "Nyimba",
+    "filename": "NYIMBA.geojson",
+    "wardCount": 13
+  },
+  {
+    "name": "Pambashe",
+    "filename": "PAMBASHE.geojson",
+    "wardCount": 7
+  },
+  {
+    "name": "Pemba",
+    "filename": "PEMBA.geojson",
+    "wardCount": 7
+  },
+  {
+    "name": "Petauke",
+    "filename": "PETAUKE.geojson",
+    "wardCount": 7
+  },
+  {
+    "name": "Roan",
+    "filename": "ROAN.geojson",
+    "wardCount": 14
+  },
+  {
+    "name": "Rufunsa",
+    "filename": "RUFUNSA.geojson",
+    "wardCount": 7
+  },
+  {
+    "name": "Senanga",
+    "filename": "SENANGA.geojson",
+    "wardCount": 9
+  },
+  {
+    "name": "Senga Hill",
+    "filename": "SENGA_HILL.geojson",
+    "wardCount": 9
+  },
+  {
+    "name": "Serenje",
+    "filename": "SERENJE.geojson",
+    "wardCount": 6
+  },
+  {
+    "name": "Sesheke",
+    "filename": "SESHEKE.geojson",
+    "wardCount": 6
+  },
+  {
+    "name": "Shiwangadu",
+    "filename": "SHIWANGADU.geojson",
+    "wardCount": 10
+  },
+  {
+    "name": "Siavonga",
+    "filename": "SIAVONGA.geojson",
+    "wardCount": 13
+  },
+  {
+    "name": "Sikongo",
+    "filename": "SIKONGO.geojson",
+    "wardCount": 10
+  },
+  {
+    "name": "Sinazongwe",
+    "filename": "SINAZONGWE.geojson",
+    "wardCount": 14
+  },
+  {
+    "name": "Sinda",
+    "filename": "SINDA.geojson",
+    "wardCount": 10
+  },
+  {
+    "name": "Sinjembela",
+    "filename": "SINJEMBELA.geojson",
+    "wardCount": 1
+  },
+  {
+    "name": "Solwezi Central",
+    "filename": "SOLWEZI_CENTRAL.geojson",
+    "wardCount": 1
+  },
+  {
+    "name": "Solwezi East",
+    "filename": "SOLWEZI_EAST.geojson",
+    "wardCount": 1
+  },
+  {
+    "name": "Solwezi West",
+    "filename": "SOLWEZI_WEST.geojson",
+    "wardCount": 1
+  },
+  {
+    "name": "Vubwi",
+    "filename": "VUBWI.geojson",
+    "wardCount": 10
+  },
+  {
+    "name": "Wusakile",
+    "filename": "WUSAKILE.geojson",
+    "wardCount": 4
+  },
+  {
+    "name": "Zambezi East",
+    "filename": "ZAMBEZI_EAST.geojson",
+    "wardCount": 10
+  },
+  {
+    "name": "Zambezi West",
+    "filename": "ZAMBEZI_WEST.geojson",
+    "wardCount": 6
+  }
+]

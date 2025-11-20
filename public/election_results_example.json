@@ -1,0 +1,4370 @@
+{
+  "1010001": {
+    "winner": "PF",
+    "votes": 11070,
+    "margin": 5.32,
+    "totalVotes": 24553,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 11070,
+        "percentage": 45.09
+      },
+      {
+        "party": "UPND",
+        "votes": 9764,
+        "percentage": 39.77
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 3231,
+        "percentage": 13.16
+      },
+      {
+        "party": "OTHER",
+        "votes": 488,
+        "percentage": 1.99
+      }
+    ]
+  },
+  "1010002": {
+    "winner": "UPND",
+    "votes": 9252,
+    "margin": 15.03,
+    "totalVotes": 18175,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 9252,
+        "percentage": 50.91
+      },
+      {
+        "party": "PF",
+        "votes": 6521,
+        "percentage": 35.88
+      },
+      {
+        "party": "OTHER",
+        "votes": 1887,
+        "percentage": 10.38
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 515,
+        "percentage": 2.83
+      }
+    ]
+  },
+  "1010003": {
+    "winner": "PF",
+    "votes": 16266,
+    "margin": 45.68,
+    "totalVotes": 24242,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 16266,
+        "percentage": 67.1
+      },
+      {
+        "party": "UPND",
+        "votes": 5193,
+        "percentage": 21.42
+      },
+      {
+        "party": "OTHER",
+        "votes": 1489,
+        "percentage": 6.14
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1294,
+        "percentage": 5.34
+      }
+    ]
+  },
+  "1010004": {
+    "winner": "PF",
+    "votes": 12818,
+    "margin": 12.43,
+    "totalVotes": 27871,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 12818,
+        "percentage": 45.99
+      },
+      {
+        "party": "UPND",
+        "votes": 9355,
+        "percentage": 33.57
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 3728,
+        "percentage": 13.38
+      },
+      {
+        "party": "OTHER",
+        "votes": 1970,
+        "percentage": 7.07
+      }
+    ]
+  },
+  "1010005": {
+    "winner": "PF",
+    "votes": 11825,
+    "margin": 24.15,
+    "totalVotes": 22049,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 11825,
+        "percentage": 53.63
+      },
+      {
+        "party": "UPND",
+        "votes": 6501,
+        "percentage": 29.48
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2055,
+        "percentage": 9.32
+      },
+      {
+        "party": "OTHER",
+        "votes": 1668,
+        "percentage": 7.56
+      }
+    ]
+  },
+  "1010006": {
+    "winner": "PF",
+    "votes": 17076,
+    "margin": 25.02,
+    "totalVotes": 31019,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 17076,
+        "percentage": 55.05
+      },
+      {
+        "party": "UPND",
+        "votes": 9314,
+        "percentage": 30.03
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 3196,
+        "percentage": 10.3
+      },
+      {
+        "party": "OTHER",
+        "votes": 1433,
+        "percentage": 4.62
+      }
+    ]
+  },
+  "1010007": {
+    "winner": "UPND",
+    "votes": 9987,
+    "margin": 43.6,
+    "totalVotes": 15735,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 9987,
+        "percentage": 63.47
+      },
+      {
+        "party": "PF",
+        "votes": 3127,
+        "percentage": 19.87
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2482,
+        "percentage": 15.77
+      },
+      {
+        "party": "OTHER",
+        "votes": 139,
+        "percentage": 0.88
+      }
+    ]
+  },
+  "1010008": {
+    "winner": "UPND",
+    "votes": 19826,
+    "margin": 19.34,
+    "totalVotes": 36262,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 19826,
+        "percentage": 54.67
+      },
+      {
+        "party": "PF",
+        "votes": 12813,
+        "percentage": 35.33
+      },
+      {
+        "party": "OTHER",
+        "votes": 1847,
+        "percentage": 5.09
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1776,
+        "percentage": 4.9
+      }
+    ]
+  },
+  "1010009": {
+    "winner": "PF",
+    "votes": 19726,
+    "margin": 11.23,
+    "totalVotes": 40227,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 19726,
+        "percentage": 49.04
+      },
+      {
+        "party": "UPND",
+        "votes": 15207,
+        "percentage": 37.8
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4267,
+        "percentage": 10.61
+      },
+      {
+        "party": "OTHER",
+        "votes": 1027,
+        "percentage": 2.55
+      }
+    ]
+  },
+  "1010010": {
+    "winner": "UPND",
+    "votes": 21577,
+    "margin": 11.85,
+    "totalVotes": 43717,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 21577,
+        "percentage": 49.36
+      },
+      {
+        "party": "PF",
+        "votes": 16397,
+        "percentage": 37.51
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4162,
+        "percentage": 9.52
+      },
+      {
+        "party": "OTHER",
+        "votes": 1581,
+        "percentage": 3.62
+      }
+    ]
+  },
+  "1010011": {
+    "winner": "UPND",
+    "votes": 14974,
+    "margin": 27.65,
+    "totalVotes": 25440,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 14974,
+        "percentage": 58.86
+      },
+      {
+        "party": "PF",
+        "votes": 7940,
+        "percentage": 31.21
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2112,
+        "percentage": 8.3
+      },
+      {
+        "party": "OTHER",
+        "votes": 414,
+        "percentage": 1.63
+      }
+    ]
+  },
+  "1010012": {
+    "winner": "PF",
+    "votes": 18267,
+    "margin": 1.01,
+    "totalVotes": 40871,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 18267,
+        "percentage": 44.69
+      },
+      {
+        "party": "UPND",
+        "votes": 17856,
+        "percentage": 43.69
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 3124,
+        "percentage": 7.64
+      },
+      {
+        "party": "OTHER",
+        "votes": 1624,
+        "percentage": 3.97
+      }
+    ]
+  },
+  "1010013": {
+    "winner": "UPND",
+    "votes": 13930,
+    "margin": 30.88,
+    "totalVotes": 24922,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 13930,
+        "percentage": 55.89
+      },
+      {
+        "party": "PF",
+        "votes": 6235,
+        "percentage": 25.02
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4514,
+        "percentage": 18.11
+      },
+      {
+        "party": "OTHER",
+        "votes": 243,
+        "percentage": 0.98
+      }
+    ]
+  },
+  "1010014": {
+    "winner": "UPND",
+    "votes": 16897,
+    "margin": 7.41,
+    "totalVotes": 36588,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 16897,
+        "percentage": 46.18
+      },
+      {
+        "party": "PF",
+        "votes": 14186,
+        "percentage": 38.77
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4008,
+        "percentage": 10.95
+      },
+      {
+        "party": "OTHER",
+        "votes": 1497,
+        "percentage": 4.09
+      }
+    ]
+  },
+  "1010015": {
+    "winner": "UPND",
+    "votes": 19362,
+    "margin": 21.17,
+    "totalVotes": 33140,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 19362,
+        "percentage": 58.42
+      },
+      {
+        "party": "PF",
+        "votes": 12347,
+        "percentage": 37.26
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1061,
+        "percentage": 3.2
+      },
+      {
+        "party": "OTHER",
+        "votes": 370,
+        "percentage": 1.12
+      }
+    ]
+  },
+  "1050084": {
+    "winner": "UPND",
+    "votes": 22128,
+    "margin": 11.37,
+    "totalVotes": 42881,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 22128,
+        "percentage": 51.6
+      },
+      {
+        "party": "PF",
+        "votes": 17253,
+        "percentage": 40.23
+      },
+      {
+        "party": "OTHER",
+        "votes": 1800,
+        "percentage": 4.2
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1700,
+        "percentage": 3.96
+      }
+    ]
+  },
+  "1020016": {
+    "winner": "UPND",
+    "votes": 18161,
+    "margin": 7.5,
+    "totalVotes": 35893,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 18161,
+        "percentage": 50.6
+      },
+      {
+        "party": "PF",
+        "votes": 15468,
+        "percentage": 43.09
+      },
+      {
+        "party": "OTHER",
+        "votes": 1743,
+        "percentage": 4.86
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 521,
+        "percentage": 1.45
+      }
+    ]
+  },
+  "1020017": {
+    "winner": "UPND",
+    "votes": 21176,
+    "margin": 24.22,
+    "totalVotes": 35720,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 21176,
+        "percentage": 59.28
+      },
+      {
+        "party": "PF",
+        "votes": 12524,
+        "percentage": 35.06
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1745,
+        "percentage": 4.89
+      },
+      {
+        "party": "OTHER",
+        "votes": 275,
+        "percentage": 0.77
+      }
+    ]
+  },
+  "1020018": {
+    "winner": "UPND",
+    "votes": 12088,
+    "margin": 6.46,
+    "totalVotes": 24445,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 12088,
+        "percentage": 49.45
+      },
+      {
+        "party": "PF",
+        "votes": 10510,
+        "percentage": 42.99
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1606,
+        "percentage": 6.57
+      },
+      {
+        "party": "OTHER",
+        "votes": 241,
+        "percentage": 0.99
+      }
+    ]
+  },
+  "1020019": {
+    "winner": "PF",
+    "votes": 19654,
+    "margin": 10.7,
+    "totalVotes": 37732,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 19654,
+        "percentage": 52.09
+      },
+      {
+        "party": "UPND",
+        "votes": 15615,
+        "percentage": 41.38
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2016,
+        "percentage": 5.34
+      },
+      {
+        "party": "OTHER",
+        "votes": 447,
+        "percentage": 1.18
+      }
+    ]
+  },
+  "1020020": {
+    "winner": "UPND",
+    "votes": 13962,
+    "margin": 40.32,
+    "totalVotes": 23550,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 13962,
+        "percentage": 59.29
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4466,
+        "percentage": 18.96
+      },
+      {
+        "party": "PF",
+        "votes": 3972,
+        "percentage": 16.87
+      },
+      {
+        "party": "OTHER",
+        "votes": 1150,
+        "percentage": 4.88
+      }
+    ]
+  },
+  "1020021": {
+    "winner": "PF",
+    "votes": 13794,
+    "margin": 2.8,
+    "totalVotes": 30487,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 13794,
+        "percentage": 45.25
+      },
+      {
+        "party": "UPND",
+        "votes": 12939,
+        "percentage": 42.44
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2130,
+        "percentage": 6.99
+      },
+      {
+        "party": "OTHER",
+        "votes": 1624,
+        "percentage": 5.33
+      }
+    ]
+  },
+  "1020022": {
+    "winner": "UPND",
+    "votes": 8839,
+    "margin": 22.9,
+    "totalVotes": 15968,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 8839,
+        "percentage": 55.35
+      },
+      {
+        "party": "PF",
+        "votes": 5183,
+        "percentage": 32.46
+      },
+      {
+        "party": "OTHER",
+        "votes": 1010,
+        "percentage": 6.33
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 936,
+        "percentage": 5.86
+      }
+    ]
+  },
+  "1020023": {
+    "winner": "UPND",
+    "votes": 22729,
+    "margin": 19.33,
+    "totalVotes": 41875,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 22729,
+        "percentage": 54.28
+      },
+      {
+        "party": "PF",
+        "votes": 14636,
+        "percentage": 34.95
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 3282,
+        "percentage": 7.84
+      },
+      {
+        "party": "OTHER",
+        "votes": 1228,
+        "percentage": 2.93
+      }
+    ]
+  },
+  "1020024": {
+    "winner": "UPND",
+    "votes": 23197,
+    "margin": 45.75,
+    "totalVotes": 34418,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 23197,
+        "percentage": 67.4
+      },
+      {
+        "party": "PF",
+        "votes": 7450,
+        "percentage": 21.65
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1956,
+        "percentage": 5.68
+      },
+      {
+        "party": "OTHER",
+        "votes": 1815,
+        "percentage": 5.27
+      }
+    ]
+  },
+  "1020025": {
+    "winner": "PF",
+    "votes": 12917,
+    "margin": 9.21,
+    "totalVotes": 27934,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 12917,
+        "percentage": 46.24
+      },
+      {
+        "party": "UPND",
+        "votes": 10345,
+        "percentage": 37.03
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 3739,
+        "percentage": 13.39
+      },
+      {
+        "party": "OTHER",
+        "votes": 933,
+        "percentage": 3.34
+      }
+    ]
+  },
+  "1020026": {
+    "winner": "PF",
+    "votes": 13250,
+    "margin": 2.24,
+    "totalVotes": 29461,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 13250,
+        "percentage": 44.97
+      },
+      {
+        "party": "UPND",
+        "votes": 12590,
+        "percentage": 42.73
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2056,
+        "percentage": 6.98
+      },
+      {
+        "party": "OTHER",
+        "votes": 1565,
+        "percentage": 5.31
+      }
+    ]
+  },
+  "1020027": {
+    "winner": "UPND",
+    "votes": 15474,
+    "margin": 22.54,
+    "totalVotes": 26634,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 15474,
+        "percentage": 58.1
+      },
+      {
+        "party": "PF",
+        "votes": 9471,
+        "percentage": 35.56
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1441,
+        "percentage": 5.41
+      },
+      {
+        "party": "OTHER",
+        "votes": 248,
+        "percentage": 0.93
+      }
+    ]
+  },
+  "1020028": {
+    "winner": "UPND",
+    "votes": 13845,
+    "margin": 4.74,
+    "totalVotes": 29168,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 13845,
+        "percentage": 47.47
+      },
+      {
+        "party": "PF",
+        "votes": 12463,
+        "percentage": 42.73
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2160,
+        "percentage": 7.41
+      },
+      {
+        "party": "OTHER",
+        "votes": 700,
+        "percentage": 2.4
+      }
+    ]
+  },
+  "1020029": {
+    "winner": "PF",
+    "votes": 15479,
+    "margin": 10.43,
+    "totalVotes": 29378,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 15479,
+        "percentage": 52.69
+      },
+      {
+        "party": "UPND",
+        "votes": 12414,
+        "percentage": 42.26
+      },
+      {
+        "party": "OTHER",
+        "votes": 962,
+        "percentage": 3.27
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 523,
+        "percentage": 1.78
+      }
+    ]
+  },
+  "1020030": {
+    "winner": "UPND",
+    "votes": 14030,
+    "margin": 16.15,
+    "totalVotes": 26367,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 14030,
+        "percentage": 53.21
+      },
+      {
+        "party": "PF",
+        "votes": 9771,
+        "percentage": 37.06
+      },
+      {
+        "party": "OTHER",
+        "votes": 1764,
+        "percentage": 6.69
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 802,
+        "percentage": 3.04
+      }
+    ]
+  },
+  "1020031": {
+    "winner": "PF",
+    "votes": 13414,
+    "margin": 16.47,
+    "totalVotes": 26062,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 13414,
+        "percentage": 51.47
+      },
+      {
+        "party": "UPND",
+        "votes": 9122,
+        "percentage": 35.0
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 3070,
+        "percentage": 11.78
+      },
+      {
+        "party": "OTHER",
+        "votes": 456,
+        "percentage": 1.75
+      }
+    ]
+  },
+  "1020032": {
+    "winner": "UPND",
+    "votes": 20492,
+    "margin": 32.95,
+    "totalVotes": 33324,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 20492,
+        "percentage": 61.49
+      },
+      {
+        "party": "PF",
+        "votes": 9511,
+        "percentage": 28.54
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1674,
+        "percentage": 5.02
+      },
+      {
+        "party": "OTHER",
+        "votes": 1647,
+        "percentage": 4.94
+      }
+    ]
+  },
+  "1020033": {
+    "winner": "UPND",
+    "votes": 17397,
+    "margin": 32.56,
+    "totalVotes": 29102,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 17397,
+        "percentage": 59.78
+      },
+      {
+        "party": "PF",
+        "votes": 7920,
+        "percentage": 27.21
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2656,
+        "percentage": 9.13
+      },
+      {
+        "party": "OTHER",
+        "votes": 1129,
+        "percentage": 3.88
+      }
+    ]
+  },
+  "1020034": {
+    "winner": "UPND",
+    "votes": 18180,
+    "margin": 21.97,
+    "totalVotes": 32684,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 18180,
+        "percentage": 55.62
+      },
+      {
+        "party": "PF",
+        "votes": 11000,
+        "percentage": 33.66
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2637,
+        "percentage": 8.07
+      },
+      {
+        "party": "OTHER",
+        "votes": 867,
+        "percentage": 2.65
+      }
+    ]
+  },
+  "1020035": {
+    "winner": "PF",
+    "votes": 11313,
+    "margin": 1.17,
+    "totalVotes": 25785,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 11313,
+        "percentage": 43.87
+      },
+      {
+        "party": "UPND",
+        "votes": 11011,
+        "percentage": 42.7
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1887,
+        "percentage": 7.32
+      },
+      {
+        "party": "OTHER",
+        "votes": 1574,
+        "percentage": 6.1
+      }
+    ]
+  },
+  "1020036": {
+    "winner": "PF",
+    "votes": 16399,
+    "margin": 12.49,
+    "totalVotes": 34282,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 16399,
+        "percentage": 47.84
+      },
+      {
+        "party": "UPND",
+        "votes": 12116,
+        "percentage": 35.34
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4703,
+        "percentage": 13.72
+      },
+      {
+        "party": "OTHER",
+        "votes": 1064,
+        "percentage": 3.1
+      }
+    ]
+  },
+  "1020037": {
+    "winner": "UPND",
+    "votes": 8558,
+    "margin": 27.22,
+    "totalVotes": 16637,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 8558,
+        "percentage": 51.44
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4029,
+        "percentage": 24.22
+      },
+      {
+        "party": "PF",
+        "votes": 3936,
+        "percentage": 23.66
+      },
+      {
+        "party": "OTHER",
+        "votes": 114,
+        "percentage": 0.69
+      }
+    ]
+  },
+  "1030038": {
+    "winner": "UPND",
+    "votes": 11755,
+    "margin": 38.81,
+    "totalVotes": 18914,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 11755,
+        "percentage": 62.15
+      },
+      {
+        "party": "PF",
+        "votes": 4414,
+        "percentage": 23.34
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2507,
+        "percentage": 13.25
+      },
+      {
+        "party": "OTHER",
+        "votes": 238,
+        "percentage": 1.26
+      }
+    ]
+  },
+  "1030040": {
+    "winner": "UPND",
+    "votes": 13638,
+    "margin": 13.46,
+    "totalVotes": 27294,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 13638,
+        "percentage": 49.97
+      },
+      {
+        "party": "PF",
+        "votes": 9965,
+        "percentage": 36.51
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1882,
+        "percentage": 6.9
+      },
+      {
+        "party": "OTHER",
+        "votes": 1809,
+        "percentage": 6.63
+      }
+    ]
+  },
+  "1030042": {
+    "winner": "UPND",
+    "votes": 11275,
+    "margin": 25.12,
+    "totalVotes": 20341,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 11275,
+        "percentage": 55.43
+      },
+      {
+        "party": "PF",
+        "votes": 6165,
+        "percentage": 30.31
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2234,
+        "percentage": 10.98
+      },
+      {
+        "party": "OTHER",
+        "votes": 667,
+        "percentage": 3.28
+      }
+    ]
+  },
+  "1030043": {
+    "winner": "UPND",
+    "votes": 24909,
+    "margin": 26.88,
+    "totalVotes": 43967,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 24909,
+        "percentage": 56.65
+      },
+      {
+        "party": "PF",
+        "votes": 13090,
+        "percentage": 29.77
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4376,
+        "percentage": 9.95
+      },
+      {
+        "party": "OTHER",
+        "votes": 1592,
+        "percentage": 3.62
+      }
+    ]
+  },
+  "1030044": {
+    "winner": "UPND",
+    "votes": 17490,
+    "margin": 47.92,
+    "totalVotes": 25309,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 17490,
+        "percentage": 69.11
+      },
+      {
+        "party": "PF",
+        "votes": 5363,
+        "percentage": 21.19
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1236,
+        "percentage": 4.88
+      },
+      {
+        "party": "OTHER",
+        "votes": 1220,
+        "percentage": 4.82
+      }
+    ]
+  },
+  "1030047": {
+    "winner": "UPND",
+    "votes": 14642,
+    "margin": 25.7,
+    "totalVotes": 25370,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 14642,
+        "percentage": 57.71
+      },
+      {
+        "party": "PF",
+        "votes": 8123,
+        "percentage": 32.02
+      },
+      {
+        "party": "OTHER",
+        "votes": 1975,
+        "percentage": 7.78
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 630,
+        "percentage": 2.48
+      }
+    ]
+  },
+  "1030048": {
+    "winner": "UPND",
+    "votes": 22540,
+    "margin": 26.64,
+    "totalVotes": 39606,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 22540,
+        "percentage": 56.91
+      },
+      {
+        "party": "PF",
+        "votes": 11990,
+        "percentage": 30.27
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 3621,
+        "percentage": 9.14
+      },
+      {
+        "party": "OTHER",
+        "votes": 1455,
+        "percentage": 3.67
+      }
+    ]
+  },
+  "1030049": {
+    "winner": "PF",
+    "votes": 15046,
+    "margin": 21.08,
+    "totalVotes": 26939,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 15046,
+        "percentage": 55.85
+      },
+      {
+        "party": "UPND",
+        "votes": 9367,
+        "percentage": 34.77
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1353,
+        "percentage": 5.02
+      },
+      {
+        "party": "OTHER",
+        "votes": 1173,
+        "percentage": 4.35
+      }
+    ]
+  },
+  "1030050": {
+    "winner": "UPND",
+    "votes": 8966,
+    "margin": 12.66,
+    "totalVotes": 21535,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 8966,
+        "percentage": 41.63
+      },
+      {
+        "party": "PF",
+        "votes": 6240,
+        "percentage": 28.98
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4827,
+        "percentage": 22.41
+      },
+      {
+        "party": "OTHER",
+        "votes": 1502,
+        "percentage": 6.97
+      }
+    ]
+  },
+  "1030052": {
+    "winner": "UPND",
+    "votes": 21927,
+    "margin": 8.24,
+    "totalVotes": 44807,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 21927,
+        "percentage": 48.94
+      },
+      {
+        "party": "PF",
+        "votes": 18235,
+        "percentage": 40.7
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2839,
+        "percentage": 6.34
+      },
+      {
+        "party": "OTHER",
+        "votes": 1806,
+        "percentage": 4.03
+      }
+    ]
+  },
+  "1030053": {
+    "winner": "UPND",
+    "votes": 23603,
+    "margin": 17.5,
+    "totalVotes": 43150,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 23603,
+        "percentage": 54.7
+      },
+      {
+        "party": "PF",
+        "votes": 16051,
+        "percentage": 37.2
+      },
+      {
+        "party": "OTHER",
+        "votes": 1897,
+        "percentage": 4.4
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1599,
+        "percentage": 3.71
+      }
+    ]
+  },
+  "1030054": {
+    "winner": "UPND",
+    "votes": 13842,
+    "margin": 22.24,
+    "totalVotes": 24995,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 13842,
+        "percentage": 55.38
+      },
+      {
+        "party": "PF",
+        "votes": 8283,
+        "percentage": 33.14
+      },
+      {
+        "party": "OTHER",
+        "votes": 1782,
+        "percentage": 7.13
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1088,
+        "percentage": 4.35
+      }
+    ]
+  },
+  "1030055": {
+    "winner": "PF",
+    "votes": 18765,
+    "margin": 48.75,
+    "totalVotes": 27834,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 18765,
+        "percentage": 67.42
+      },
+      {
+        "party": "UPND",
+        "votes": 5196,
+        "percentage": 18.67
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2642,
+        "percentage": 9.49
+      },
+      {
+        "party": "OTHER",
+        "votes": 1231,
+        "percentage": 4.42
+      }
+    ]
+  },
+  "1030045": {
+    "winner": "PF",
+    "votes": 19930,
+    "margin": 11.33,
+    "totalVotes": 37417,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 19930,
+        "percentage": 53.26
+      },
+      {
+        "party": "UPND",
+        "votes": 15691,
+        "percentage": 41.94
+      },
+      {
+        "party": "OTHER",
+        "votes": 1250,
+        "percentage": 3.34
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 546,
+        "percentage": 1.46
+      }
+    ]
+  },
+  "1030039": {
+    "winner": "UPND",
+    "votes": 6900,
+    "margin": 28.96,
+    "totalVotes": 13458,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 6900,
+        "percentage": 51.27
+      },
+      {
+        "party": "PF",
+        "votes": 3003,
+        "percentage": 22.31
+      },
+      {
+        "party": "OTHER",
+        "votes": 1856,
+        "percentage": 13.79
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1699,
+        "percentage": 12.62
+      }
+    ]
+  },
+  "1030041": {
+    "winner": "UPND",
+    "votes": 14530,
+    "margin": 42.69,
+    "totalVotes": 22071,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 14530,
+        "percentage": 65.83
+      },
+      {
+        "party": "PF",
+        "votes": 5107,
+        "percentage": 23.14
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2286,
+        "percentage": 10.36
+      },
+      {
+        "party": "OTHER",
+        "votes": 148,
+        "percentage": 0.67
+      }
+    ]
+  },
+  "1030046": {
+    "winner": "UPND",
+    "votes": 9302,
+    "margin": 9.81,
+    "totalVotes": 19516,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 9302,
+        "percentage": 47.66
+      },
+      {
+        "party": "PF",
+        "votes": 7387,
+        "percentage": 37.85
+      },
+      {
+        "party": "OTHER",
+        "votes": 1758,
+        "percentage": 9.01
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1069,
+        "percentage": 5.48
+      }
+    ]
+  },
+  "1030051": {
+    "winner": "UPND",
+    "votes": 15124,
+    "margin": 33.16,
+    "totalVotes": 26727,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 15124,
+        "percentage": 56.59
+      },
+      {
+        "party": "PF",
+        "votes": 6260,
+        "percentage": 23.42
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4346,
+        "percentage": 16.26
+      },
+      {
+        "party": "OTHER",
+        "votes": 997,
+        "percentage": 3.73
+      }
+    ]
+  },
+  "1040056": {
+    "winner": "UPND",
+    "votes": 23721,
+    "margin": 33.74,
+    "totalVotes": 39047,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 23721,
+        "percentage": 60.75
+      },
+      {
+        "party": "PF",
+        "votes": 10546,
+        "percentage": 27.01
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 3765,
+        "percentage": 9.64
+      },
+      {
+        "party": "OTHER",
+        "votes": 1015,
+        "percentage": 2.6
+      }
+    ]
+  },
+  "1040057": {
+    "winner": "PF",
+    "votes": 19354,
+    "margin": 13.06,
+    "totalVotes": 39897,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 19354,
+        "percentage": 48.51
+      },
+      {
+        "party": "UPND",
+        "votes": 14142,
+        "percentage": 35.45
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4778,
+        "percentage": 11.98
+      },
+      {
+        "party": "OTHER",
+        "votes": 1623,
+        "percentage": 4.07
+      }
+    ]
+  },
+  "1040058": {
+    "winner": "PF",
+    "votes": 13099,
+    "margin": 14.71,
+    "totalVotes": 27720,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 13099,
+        "percentage": 47.25
+      },
+      {
+        "party": "UPND",
+        "votes": 9022,
+        "percentage": 32.55
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4786,
+        "percentage": 17.27
+      },
+      {
+        "party": "OTHER",
+        "votes": 813,
+        "percentage": 2.93
+      }
+    ]
+  },
+  "1040059": {
+    "winner": "PF",
+    "votes": 16318,
+    "margin": 13.61,
+    "totalVotes": 30532,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 16318,
+        "percentage": 53.45
+      },
+      {
+        "party": "UPND",
+        "votes": 12162,
+        "percentage": 39.83
+      },
+      {
+        "party": "OTHER",
+        "votes": 1329,
+        "percentage": 4.35
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 723,
+        "percentage": 2.37
+      }
+    ]
+  },
+  "1040060": {
+    "winner": "UPND",
+    "votes": 23221,
+    "margin": 57.63,
+    "totalVotes": 31230,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 23221,
+        "percentage": 74.35
+      },
+      {
+        "party": "PF",
+        "votes": 5222,
+        "percentage": 16.72
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2391,
+        "percentage": 7.66
+      },
+      {
+        "party": "OTHER",
+        "votes": 396,
+        "percentage": 1.27
+      }
+    ]
+  },
+  "1040061": {
+    "winner": "UPND",
+    "votes": 11298,
+    "margin": 4.76,
+    "totalVotes": 27373,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 11298,
+        "percentage": 41.27
+      },
+      {
+        "party": "PF",
+        "votes": 9996,
+        "percentage": 36.52
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4416,
+        "percentage": 16.13
+      },
+      {
+        "party": "OTHER",
+        "votes": 1663,
+        "percentage": 6.08
+      }
+    ]
+  },
+  "1040062": {
+    "winner": "UPND",
+    "votes": 14048,
+    "margin": 7.9,
+    "totalVotes": 32274,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 14048,
+        "percentage": 43.53
+      },
+      {
+        "party": "PF",
+        "votes": 11499,
+        "percentage": 35.63
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4782,
+        "percentage": 14.82
+      },
+      {
+        "party": "OTHER",
+        "votes": 1945,
+        "percentage": 6.03
+      }
+    ]
+  },
+  "1040063": {
+    "winner": "UPND",
+    "votes": 18315,
+    "margin": 14.49,
+    "totalVotes": 34175,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 18315,
+        "percentage": 53.59
+      },
+      {
+        "party": "PF",
+        "votes": 13363,
+        "percentage": 39.1
+      },
+      {
+        "party": "OTHER",
+        "votes": 1930,
+        "percentage": 5.65
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 567,
+        "percentage": 1.66
+      }
+    ]
+  },
+  "1040064": {
+    "winner": "UPND",
+    "votes": 13103,
+    "margin": 8.42,
+    "totalVotes": 27032,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 13103,
+        "percentage": 48.47
+      },
+      {
+        "party": "PF",
+        "votes": 10827,
+        "percentage": 40.05
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2751,
+        "percentage": 10.18
+      },
+      {
+        "party": "OTHER",
+        "votes": 351,
+        "percentage": 1.3
+      }
+    ]
+  },
+  "1040065": {
+    "winner": "UPND",
+    "votes": 13077,
+    "margin": 30.06,
+    "totalVotes": 23891,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 13077,
+        "percentage": 54.74
+      },
+      {
+        "party": "PF",
+        "votes": 5895,
+        "percentage": 24.67
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 3120,
+        "percentage": 13.06
+      },
+      {
+        "party": "OTHER",
+        "votes": 1799,
+        "percentage": 7.53
+      }
+    ]
+  },
+  "1040066": {
+    "winner": "PF",
+    "votes": 13298,
+    "margin": 9.14,
+    "totalVotes": 26717,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 13298,
+        "percentage": 49.77
+      },
+      {
+        "party": "UPND",
+        "votes": 10855,
+        "percentage": 40.63
+      },
+      {
+        "party": "OTHER",
+        "votes": 1702,
+        "percentage": 6.37
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 862,
+        "percentage": 3.23
+      }
+    ]
+  },
+  "1040067": {
+    "winner": "PF",
+    "votes": 16265,
+    "margin": 1.39,
+    "totalVotes": 36730,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 16265,
+        "percentage": 44.28
+      },
+      {
+        "party": "UPND",
+        "votes": 15753,
+        "percentage": 42.89
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2879,
+        "percentage": 7.84
+      },
+      {
+        "party": "OTHER",
+        "votes": 1833,
+        "percentage": 4.99
+      }
+    ]
+  },
+  "1040068": {
+    "winner": "PF",
+    "votes": 17744,
+    "margin": 10.47,
+    "totalVotes": 34499,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 17744,
+        "percentage": 51.43
+      },
+      {
+        "party": "UPND",
+        "votes": 14131,
+        "percentage": 40.96
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2459,
+        "percentage": 7.13
+      },
+      {
+        "party": "OTHER",
+        "votes": 165,
+        "percentage": 0.48
+      }
+    ]
+  },
+  "1040069": {
+    "winner": "UPND",
+    "votes": 18091,
+    "margin": 25.21,
+    "totalVotes": 31502,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 18091,
+        "percentage": 57.43
+      },
+      {
+        "party": "PF",
+        "votes": 10149,
+        "percentage": 32.22
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2277,
+        "percentage": 7.23
+      },
+      {
+        "party": "OTHER",
+        "votes": 985,
+        "percentage": 3.13
+      }
+    ]
+  },
+  "1040070": {
+    "winner": "UPND",
+    "votes": 9877,
+    "margin": 10.79,
+    "totalVotes": 19870,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 9877,
+        "percentage": 49.71
+      },
+      {
+        "party": "PF",
+        "votes": 7733,
+        "percentage": 38.92
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1905,
+        "percentage": 9.59
+      },
+      {
+        "party": "OTHER",
+        "votes": 355,
+        "percentage": 1.79
+      }
+    ]
+  },
+  "1050071": {
+    "winner": "UPND",
+    "votes": 18559,
+    "margin": 2.75,
+    "totalVotes": 39595,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 18559,
+        "percentage": 46.87
+      },
+      {
+        "party": "PF",
+        "votes": 17471,
+        "percentage": 44.12
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2286,
+        "percentage": 5.77
+      },
+      {
+        "party": "OTHER",
+        "votes": 1279,
+        "percentage": 3.23
+      }
+    ]
+  },
+  "1050072": {
+    "winner": "PF",
+    "votes": 19372,
+    "margin": 29.56,
+    "totalVotes": 33374,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 19372,
+        "percentage": 58.05
+      },
+      {
+        "party": "UPND",
+        "votes": 9506,
+        "percentage": 28.48
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 3053,
+        "percentage": 9.15
+      },
+      {
+        "party": "OTHER",
+        "votes": 1443,
+        "percentage": 4.32
+      }
+    ]
+  },
+  "1050073": {
+    "winner": "UPND",
+    "votes": 17831,
+    "margin": 18.5,
+    "totalVotes": 31726,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 17831,
+        "percentage": 56.2
+      },
+      {
+        "party": "PF",
+        "votes": 11963,
+        "percentage": 37.71
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1474,
+        "percentage": 4.65
+      },
+      {
+        "party": "OTHER",
+        "votes": 458,
+        "percentage": 1.44
+      }
+    ]
+  },
+  "1050074": {
+    "winner": "UPND",
+    "votes": 9839,
+    "margin": 39.19,
+    "totalVotes": 14819,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 9839,
+        "percentage": 66.39
+      },
+      {
+        "party": "PF",
+        "votes": 4031,
+        "percentage": 27.2
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 561,
+        "percentage": 3.79
+      },
+      {
+        "party": "OTHER",
+        "votes": 388,
+        "percentage": 2.62
+      }
+    ]
+  },
+  "1050075": {
+    "winner": "UPND",
+    "votes": 13711,
+    "margin": 9.49,
+    "totalVotes": 30767,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 13711,
+        "percentage": 44.56
+      },
+      {
+        "party": "PF",
+        "votes": 10790,
+        "percentage": 35.07
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4749,
+        "percentage": 15.44
+      },
+      {
+        "party": "OTHER",
+        "votes": 1517,
+        "percentage": 4.93
+      }
+    ]
+  },
+  "1050076": {
+    "winner": "UPND",
+    "votes": 7861,
+    "margin": 17.01,
+    "totalVotes": 16150,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 7861,
+        "percentage": 48.67
+      },
+      {
+        "party": "PF",
+        "votes": 5114,
+        "percentage": 31.67
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2907,
+        "percentage": 18.0
+      },
+      {
+        "party": "OTHER",
+        "votes": 268,
+        "percentage": 1.66
+      }
+    ]
+  },
+  "1050077": {
+    "winner": "UPND",
+    "votes": 20535,
+    "margin": 13.19,
+    "totalVotes": 40789,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 20535,
+        "percentage": 50.34
+      },
+      {
+        "party": "PF",
+        "votes": 15155,
+        "percentage": 37.15
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 3205,
+        "percentage": 7.86
+      },
+      {
+        "party": "OTHER",
+        "votes": 1894,
+        "percentage": 4.64
+      }
+    ]
+  },
+  "1050078": {
+    "winner": "UPND",
+    "votes": 22807,
+    "margin": 9.06,
+    "totalVotes": 46089,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 22807,
+        "percentage": 49.48
+      },
+      {
+        "party": "PF",
+        "votes": 18632,
+        "percentage": 40.43
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 3992,
+        "percentage": 8.66
+      },
+      {
+        "party": "OTHER",
+        "votes": 658,
+        "percentage": 1.43
+      }
+    ]
+  },
+  "1050079": {
+    "winner": "UPND",
+    "votes": 11567,
+    "margin": 22.73,
+    "totalVotes": 23346,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 11567,
+        "percentage": 49.55
+      },
+      {
+        "party": "PF",
+        "votes": 6260,
+        "percentage": 26.81
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 3545,
+        "percentage": 15.18
+      },
+      {
+        "party": "OTHER",
+        "votes": 1974,
+        "percentage": 8.46
+      }
+    ]
+  },
+  "1050080": {
+    "winner": "UPND",
+    "votes": 9412,
+    "margin": 2.99,
+    "totalVotes": 24914,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 9412,
+        "percentage": 37.78
+      },
+      {
+        "party": "PF",
+        "votes": 8667,
+        "percentage": 34.79
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4987,
+        "percentage": 20.02
+      },
+      {
+        "party": "OTHER",
+        "votes": 1848,
+        "percentage": 7.42
+      }
+    ]
+  },
+  "1050081": {
+    "winner": "UPND",
+    "votes": 17714,
+    "margin": 60.52,
+    "totalVotes": 23874,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 17714,
+        "percentage": 74.2
+      },
+      {
+        "party": "PF",
+        "votes": 3266,
+        "percentage": 13.68
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1536,
+        "percentage": 6.43
+      },
+      {
+        "party": "OTHER",
+        "votes": 1358,
+        "percentage": 5.69
+      }
+    ]
+  },
+  "1050082": {
+    "winner": "UPND",
+    "votes": 24229,
+    "margin": 58.39,
+    "totalVotes": 33115,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 24229,
+        "percentage": 73.17
+      },
+      {
+        "party": "PF",
+        "votes": 4893,
+        "percentage": 14.78
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2748,
+        "percentage": 8.3
+      },
+      {
+        "party": "OTHER",
+        "votes": 1245,
+        "percentage": 3.76
+      }
+    ]
+  },
+  "1050083": {
+    "winner": "UPND",
+    "votes": 22697,
+    "margin": 48.32,
+    "totalVotes": 34571,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 22697,
+        "percentage": 65.65
+      },
+      {
+        "party": "PF",
+        "votes": 5991,
+        "percentage": 17.33
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4009,
+        "percentage": 11.6
+      },
+      {
+        "party": "OTHER",
+        "votes": 1874,
+        "percentage": 5.42
+      }
+    ]
+  },
+  "1060085": {
+    "winner": "UPND",
+    "votes": 18900,
+    "margin": 19.43,
+    "totalVotes": 32867,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 18900,
+        "percentage": 57.5
+      },
+      {
+        "party": "PF",
+        "votes": 12514,
+        "percentage": 38.07
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1338,
+        "percentage": 4.07
+      },
+      {
+        "party": "OTHER",
+        "votes": 115,
+        "percentage": 0.35
+      }
+    ]
+  },
+  "1060086": {
+    "winner": "UPND",
+    "votes": 11657,
+    "margin": 38.47,
+    "totalVotes": 19363,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 11657,
+        "percentage": 60.2
+      },
+      {
+        "party": "PF",
+        "votes": 4208,
+        "percentage": 21.73
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 3055,
+        "percentage": 15.78
+      },
+      {
+        "party": "OTHER",
+        "votes": 443,
+        "percentage": 2.29
+      }
+    ]
+  },
+  "1060087": {
+    "winner": "UPND",
+    "votes": 13173,
+    "margin": 31.66,
+    "totalVotes": 23272,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 13173,
+        "percentage": 56.6
+      },
+      {
+        "party": "PF",
+        "votes": 5805,
+        "percentage": 24.94
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 3873,
+        "percentage": 16.64
+      },
+      {
+        "party": "OTHER",
+        "votes": 421,
+        "percentage": 1.81
+      }
+    ]
+  },
+  "1060088": {
+    "winner": "UPND",
+    "votes": 17148,
+    "margin": 35.94,
+    "totalVotes": 28976,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 17148,
+        "percentage": 59.18
+      },
+      {
+        "party": "PF",
+        "votes": 6735,
+        "percentage": 23.24
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4675,
+        "percentage": 16.13
+      },
+      {
+        "party": "OTHER",
+        "votes": 418,
+        "percentage": 1.44
+      }
+    ]
+  },
+  "1060089": {
+    "winner": "PF",
+    "votes": 19876,
+    "margin": 50.34,
+    "totalVotes": 27252,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 19876,
+        "percentage": 72.93
+      },
+      {
+        "party": "UPND",
+        "votes": 6156,
+        "percentage": 22.59
+      },
+      {
+        "party": "OTHER",
+        "votes": 674,
+        "percentage": 2.47
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 546,
+        "percentage": 2.0
+      }
+    ]
+  },
+  "1060092": {
+    "winner": "UPND",
+    "votes": 5140,
+    "margin": 10.46,
+    "totalVotes": 13387,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 5140,
+        "percentage": 38.4
+      },
+      {
+        "party": "PF",
+        "votes": 3740,
+        "percentage": 27.94
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2553,
+        "percentage": 19.07
+      },
+      {
+        "party": "OTHER",
+        "votes": 1954,
+        "percentage": 14.6
+      }
+    ]
+  },
+  "1060093": {
+    "winner": "UPND",
+    "votes": 20000,
+    "margin": 33.87,
+    "totalVotes": 34432,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 20000,
+        "percentage": 58.09
+      },
+      {
+        "party": "PF",
+        "votes": 8337,
+        "percentage": 24.21
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4868,
+        "percentage": 14.14
+      },
+      {
+        "party": "OTHER",
+        "votes": 1227,
+        "percentage": 3.56
+      }
+    ]
+  },
+  "1060094": {
+    "winner": "UPND",
+    "votes": 23259,
+    "margin": 37.14,
+    "totalVotes": 36600,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 23259,
+        "percentage": 63.55
+      },
+      {
+        "party": "PF",
+        "votes": 9667,
+        "percentage": 26.41
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1914,
+        "percentage": 5.23
+      },
+      {
+        "party": "OTHER",
+        "votes": 1760,
+        "percentage": 4.81
+      }
+    ]
+  },
+  "1060090": {
+    "winner": "UPND",
+    "votes": 22604,
+    "margin": 59.77,
+    "totalVotes": 30871,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 22604,
+        "percentage": 73.22
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4152,
+        "percentage": 13.45
+      },
+      {
+        "party": "PF",
+        "votes": 3543,
+        "percentage": 11.48
+      },
+      {
+        "party": "OTHER",
+        "votes": 572,
+        "percentage": 1.85
+      }
+    ]
+  },
+  "1060091": {
+    "winner": "PF",
+    "votes": 14339,
+    "margin": 1.18,
+    "totalVotes": 32668,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 14339,
+        "percentage": 43.89
+      },
+      {
+        "party": "UPND",
+        "votes": 13953,
+        "percentage": 42.71
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4136,
+        "percentage": 12.66
+      },
+      {
+        "party": "OTHER",
+        "votes": 240,
+        "percentage": 0.73
+      }
+    ]
+  },
+  "1070095": {
+    "winner": "UPND",
+    "votes": 15919,
+    "margin": 5.81,
+    "totalVotes": 33914,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 15919,
+        "percentage": 46.94
+      },
+      {
+        "party": "PF",
+        "votes": 13949,
+        "percentage": 41.13
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 3531,
+        "percentage": 10.41
+      },
+      {
+        "party": "OTHER",
+        "votes": 515,
+        "percentage": 1.52
+      }
+    ]
+  },
+  "1070096": {
+    "winner": "UPND",
+    "votes": 23132,
+    "margin": 22.24,
+    "totalVotes": 38674,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 23132,
+        "percentage": 59.81
+      },
+      {
+        "party": "PF",
+        "votes": 14529,
+        "percentage": 37.57
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 808,
+        "percentage": 2.09
+      },
+      {
+        "party": "OTHER",
+        "votes": 205,
+        "percentage": 0.53
+      }
+    ]
+  },
+  "1070097": {
+    "winner": "UPND",
+    "votes": 15302,
+    "margin": 18.72,
+    "totalVotes": 29021,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 15302,
+        "percentage": 52.73
+      },
+      {
+        "party": "PF",
+        "votes": 9868,
+        "percentage": 34.0
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2032,
+        "percentage": 7.0
+      },
+      {
+        "party": "OTHER",
+        "votes": 1819,
+        "percentage": 6.27
+      }
+    ]
+  },
+  "1070098": {
+    "winner": "UPND",
+    "votes": 21862,
+    "margin": 5.71,
+    "totalVotes": 44609,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 21862,
+        "percentage": 49.01
+      },
+      {
+        "party": "PF",
+        "votes": 19314,
+        "percentage": 43.3
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2781,
+        "percentage": 6.23
+      },
+      {
+        "party": "OTHER",
+        "votes": 652,
+        "percentage": 1.46
+      }
+    ]
+  },
+  "1070099": {
+    "winner": "PF",
+    "votes": 12725,
+    "margin": 4.51,
+    "totalVotes": 29487,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 12725,
+        "percentage": 43.15
+      },
+      {
+        "party": "UPND",
+        "votes": 11395,
+        "percentage": 38.64
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 3836,
+        "percentage": 13.01
+      },
+      {
+        "party": "OTHER",
+        "votes": 1531,
+        "percentage": 5.19
+      }
+    ]
+  },
+  "1070101": {
+    "winner": "UPND",
+    "votes": 14635,
+    "margin": 28.31,
+    "totalVotes": 24077,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 14635,
+        "percentage": 60.78
+      },
+      {
+        "party": "PF",
+        "votes": 7819,
+        "percentage": 32.47
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1379,
+        "percentage": 5.73
+      },
+      {
+        "party": "OTHER",
+        "votes": 244,
+        "percentage": 1.01
+      }
+    ]
+  },
+  "1070104": {
+    "winner": "UPND",
+    "votes": 13644,
+    "margin": 2.95,
+    "totalVotes": 28850,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 13644,
+        "percentage": 47.29
+      },
+      {
+        "party": "PF",
+        "votes": 12793,
+        "percentage": 44.34
+      },
+      {
+        "party": "OTHER",
+        "votes": 1445,
+        "percentage": 5.01
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 968,
+        "percentage": 3.36
+      }
+    ]
+  },
+  "1070105": {
+    "winner": "PF",
+    "votes": 9842,
+    "margin": 14.95,
+    "totalVotes": 21801,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 9842,
+        "percentage": 45.14
+      },
+      {
+        "party": "UPND",
+        "votes": 6583,
+        "percentage": 30.2
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4134,
+        "percentage": 18.96
+      },
+      {
+        "party": "OTHER",
+        "votes": 1242,
+        "percentage": 5.7
+      }
+    ]
+  },
+  "1070106": {
+    "winner": "UPND",
+    "votes": 20112,
+    "margin": 66.54,
+    "totalVotes": 25568,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 20112,
+        "percentage": 78.66
+      },
+      {
+        "party": "PF",
+        "votes": 3100,
+        "percentage": 12.12
+      },
+      {
+        "party": "OTHER",
+        "votes": 1205,
+        "percentage": 4.71
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1151,
+        "percentage": 4.5
+      }
+    ]
+  },
+  "1070107": {
+    "winner": "UPND",
+    "votes": 22387,
+    "margin": 54.74,
+    "totalVotes": 32323,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 22387,
+        "percentage": 69.26
+      },
+      {
+        "party": "PF",
+        "votes": 4694,
+        "percentage": 14.52
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 3630,
+        "percentage": 11.23
+      },
+      {
+        "party": "OTHER",
+        "votes": 1612,
+        "percentage": 4.99
+      }
+    ]
+  },
+  "1070102": {
+    "winner": "UPND",
+    "votes": 24970,
+    "margin": 41.94,
+    "totalVotes": 39436,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 24970,
+        "percentage": 63.32
+      },
+      {
+        "party": "PF",
+        "votes": 8430,
+        "percentage": 21.38
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4266,
+        "percentage": 10.82
+      },
+      {
+        "party": "OTHER",
+        "votes": 1770,
+        "percentage": 4.49
+      }
+    ]
+  },
+  "1070103": {
+    "winner": "UPND",
+    "votes": 8821,
+    "margin": 7.59,
+    "totalVotes": 20013,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 8821,
+        "percentage": 44.08
+      },
+      {
+        "party": "PF",
+        "votes": 7302,
+        "percentage": 36.49
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2751,
+        "percentage": 13.75
+      },
+      {
+        "party": "OTHER",
+        "votes": 1139,
+        "percentage": 5.69
+      }
+    ]
+  },
+  "1070100": {
+    "winner": "PF",
+    "votes": 18656,
+    "margin": 0.84,
+    "totalVotes": 42185,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 18656,
+        "percentage": 44.22
+      },
+      {
+        "party": "UPND",
+        "votes": 18303,
+        "percentage": 43.39
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4346,
+        "percentage": 10.3
+      },
+      {
+        "party": "OTHER",
+        "votes": 880,
+        "percentage": 2.09
+      }
+    ]
+  },
+  "1080108": {
+    "winner": "UPND",
+    "votes": 11962,
+    "margin": 16.7,
+    "totalVotes": 22725,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 11962,
+        "percentage": 52.64
+      },
+      {
+        "party": "PF",
+        "votes": 8168,
+        "percentage": 35.94
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2065,
+        "percentage": 9.09
+      },
+      {
+        "party": "OTHER",
+        "votes": 530,
+        "percentage": 2.33
+      }
+    ]
+  },
+  "1080109": {
+    "winner": "PF",
+    "votes": 18246,
+    "margin": 41.73,
+    "totalVotes": 28618,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 18246,
+        "percentage": 63.76
+      },
+      {
+        "party": "UPND",
+        "votes": 6303,
+        "percentage": 22.02
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2217,
+        "percentage": 7.75
+      },
+      {
+        "party": "OTHER",
+        "votes": 1852,
+        "percentage": 6.47
+      }
+    ]
+  },
+  "1080110": {
+    "winner": "UPND",
+    "votes": 16815,
+    "margin": 24.62,
+    "totalVotes": 28979,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 16815,
+        "percentage": 58.02
+      },
+      {
+        "party": "PF",
+        "votes": 9680,
+        "percentage": 33.4
+      },
+      {
+        "party": "OTHER",
+        "votes": 1615,
+        "percentage": 5.57
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 869,
+        "percentage": 3.0
+      }
+    ]
+  },
+  "1080111": {
+    "winner": "UPND",
+    "votes": 15727,
+    "margin": 2.26,
+    "totalVotes": 36896,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 15727,
+        "percentage": 42.63
+      },
+      {
+        "party": "PF",
+        "votes": 14892,
+        "percentage": 40.36
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4417,
+        "percentage": 11.97
+      },
+      {
+        "party": "OTHER",
+        "votes": 1860,
+        "percentage": 5.04
+      }
+    ]
+  },
+  "1080112": {
+    "winner": "UPND",
+    "votes": 15580,
+    "margin": 40.71,
+    "totalVotes": 25929,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 15580,
+        "percentage": 60.09
+      },
+      {
+        "party": "PF",
+        "votes": 5024,
+        "percentage": 19.38
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 3335,
+        "percentage": 12.86
+      },
+      {
+        "party": "OTHER",
+        "votes": 1990,
+        "percentage": 7.67
+      }
+    ]
+  },
+  "1080113": {
+    "winner": "PF",
+    "votes": 15679,
+    "margin": 47.94,
+    "totalVotes": 22132,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 15679,
+        "percentage": 70.84
+      },
+      {
+        "party": "UPND",
+        "votes": 5070,
+        "percentage": 22.91
+      },
+      {
+        "party": "OTHER",
+        "votes": 872,
+        "percentage": 3.94
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 511,
+        "percentage": 2.31
+      }
+    ]
+  },
+  "1080114": {
+    "winner": "UPND",
+    "votes": 22261,
+    "margin": 60.0,
+    "totalVotes": 29990,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 22261,
+        "percentage": 74.23
+      },
+      {
+        "party": "PF",
+        "votes": 4268,
+        "percentage": 14.23
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2076,
+        "percentage": 6.92
+      },
+      {
+        "party": "OTHER",
+        "votes": 1385,
+        "percentage": 4.62
+      }
+    ]
+  },
+  "1080115": {
+    "winner": "PF",
+    "votes": 18563,
+    "margin": 16.95,
+    "totalVotes": 33895,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 18563,
+        "percentage": 54.77
+      },
+      {
+        "party": "UPND",
+        "votes": 12818,
+        "percentage": 37.82
+      },
+      {
+        "party": "OTHER",
+        "votes": 1479,
+        "percentage": 4.36
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1035,
+        "percentage": 3.05
+      }
+    ]
+  },
+  "1080118": {
+    "winner": "UPND",
+    "votes": 13826,
+    "margin": 25.51,
+    "totalVotes": 26459,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 13826,
+        "percentage": 52.25
+      },
+      {
+        "party": "PF",
+        "votes": 7076,
+        "percentage": 26.74
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4681,
+        "percentage": 17.69
+      },
+      {
+        "party": "OTHER",
+        "votes": 876,
+        "percentage": 3.31
+      }
+    ]
+  },
+  "1080119": {
+    "winner": "UPND",
+    "votes": 17879,
+    "margin": 13.83,
+    "totalVotes": 34104,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 17879,
+        "percentage": 52.42
+      },
+      {
+        "party": "PF",
+        "votes": 13163,
+        "percentage": 38.6
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2895,
+        "percentage": 8.49
+      },
+      {
+        "party": "OTHER",
+        "votes": 167,
+        "percentage": 0.49
+      }
+    ]
+  },
+  "1080117": {
+    "winner": "UPND",
+    "votes": 21711,
+    "margin": 24.17,
+    "totalVotes": 38199,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 21711,
+        "percentage": 56.84
+      },
+      {
+        "party": "PF",
+        "votes": 12480,
+        "percentage": 32.67
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2013,
+        "percentage": 5.27
+      },
+      {
+        "party": "OTHER",
+        "votes": 1995,
+        "percentage": 5.22
+      }
+    ]
+  },
+  "1080116": {
+    "winner": "UPND",
+    "votes": 22188,
+    "margin": 30.49,
+    "totalVotes": 35771,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 22188,
+        "percentage": 62.03
+      },
+      {
+        "party": "PF",
+        "votes": 11281,
+        "percentage": 31.54
+      },
+      {
+        "party": "OTHER",
+        "votes": 1802,
+        "percentage": 5.04
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 500,
+        "percentage": 1.4
+      }
+    ]
+  },
+  "1090120": {
+    "winner": "PF",
+    "votes": 12668,
+    "margin": 2.85,
+    "totalVotes": 28592,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 12668,
+        "percentage": 44.31
+      },
+      {
+        "party": "UPND",
+        "votes": 11852,
+        "percentage": 41.45
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2718,
+        "percentage": 9.51
+      },
+      {
+        "party": "OTHER",
+        "votes": 1354,
+        "percentage": 4.74
+      }
+    ]
+  },
+  "1090121": {
+    "winner": "UPND",
+    "votes": 17974,
+    "margin": 49.15,
+    "totalVotes": 27394,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 17974,
+        "percentage": 65.61
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4509,
+        "percentage": 16.46
+      },
+      {
+        "party": "PF",
+        "votes": 3579,
+        "percentage": 13.06
+      },
+      {
+        "party": "OTHER",
+        "votes": 1332,
+        "percentage": 4.86
+      }
+    ]
+  },
+  "1090122": {
+    "winner": "UPND",
+    "votes": 24376,
+    "margin": 12.06,
+    "totalVotes": 45463,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 24376,
+        "percentage": 53.62
+      },
+      {
+        "party": "PF",
+        "votes": 18895,
+        "percentage": 41.56
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1189,
+        "percentage": 2.62
+      },
+      {
+        "party": "OTHER",
+        "votes": 1003,
+        "percentage": 2.21
+      }
+    ]
+  },
+  "1090123": {
+    "winner": "UPND",
+    "votes": 12297,
+    "margin": 21.6,
+    "totalVotes": 25595,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 12297,
+        "percentage": 48.04
+      },
+      {
+        "party": "PF",
+        "votes": 6769,
+        "percentage": 26.45
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4781,
+        "percentage": 18.68
+      },
+      {
+        "party": "OTHER",
+        "votes": 1748,
+        "percentage": 6.83
+      }
+    ]
+  },
+  "1090124": {
+    "winner": "UPND",
+    "votes": 9956,
+    "margin": 10.55,
+    "totalVotes": 21494,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 9956,
+        "percentage": 46.32
+      },
+      {
+        "party": "PF",
+        "votes": 7688,
+        "percentage": 35.77
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 3294,
+        "percentage": 15.33
+      },
+      {
+        "party": "OTHER",
+        "votes": 556,
+        "percentage": 2.59
+      }
+    ]
+  },
+  "1090125": {
+    "winner": "UPND",
+    "votes": 20272,
+    "margin": 37.88,
+    "totalVotes": 32197,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 20272,
+        "percentage": 62.96
+      },
+      {
+        "party": "PF",
+        "votes": 8076,
+        "percentage": 25.08
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2579,
+        "percentage": 8.01
+      },
+      {
+        "party": "OTHER",
+        "votes": 1270,
+        "percentage": 3.94
+      }
+    ]
+  },
+  "1090126": {
+    "winner": "UPND",
+    "votes": 21304,
+    "margin": 23.77,
+    "totalVotes": 37437,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 21304,
+        "percentage": 56.91
+      },
+      {
+        "party": "PF",
+        "votes": 12407,
+        "percentage": 33.14
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 3168,
+        "percentage": 8.46
+      },
+      {
+        "party": "OTHER",
+        "votes": 558,
+        "percentage": 1.49
+      }
+    ]
+  },
+  "1090127": {
+    "winner": "PF",
+    "votes": 17047,
+    "margin": 39.54,
+    "totalVotes": 26417,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 17047,
+        "percentage": 64.53
+      },
+      {
+        "party": "UPND",
+        "votes": 6602,
+        "percentage": 24.99
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1643,
+        "percentage": 6.22
+      },
+      {
+        "party": "OTHER",
+        "votes": 1125,
+        "percentage": 4.26
+      }
+    ]
+  },
+  "1090128": {
+    "winner": "PF",
+    "votes": 19982,
+    "margin": 0.28,
+    "totalVotes": 44814,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 19982,
+        "percentage": 44.59
+      },
+      {
+        "party": "UPND",
+        "votes": 19855,
+        "percentage": 44.31
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4507,
+        "percentage": 10.06
+      },
+      {
+        "party": "OTHER",
+        "votes": 470,
+        "percentage": 1.05
+      }
+    ]
+  },
+  "1090129": {
+    "winner": "UPND",
+    "votes": 18591,
+    "margin": 59.34,
+    "totalVotes": 24245,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 18591,
+        "percentage": 76.68
+      },
+      {
+        "party": "PF",
+        "votes": 4205,
+        "percentage": 17.34
+      },
+      {
+        "party": "OTHER",
+        "votes": 912,
+        "percentage": 3.76
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 537,
+        "percentage": 2.21
+      }
+    ]
+  },
+  "1090130": {
+    "winner": "UPND",
+    "votes": 10750,
+    "margin": 26.71,
+    "totalVotes": 19772,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 10750,
+        "percentage": 54.37
+      },
+      {
+        "party": "PF",
+        "votes": 5468,
+        "percentage": 27.66
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2863,
+        "percentage": 14.48
+      },
+      {
+        "party": "OTHER",
+        "votes": 691,
+        "percentage": 3.49
+      }
+    ]
+  },
+  "1090131": {
+    "winner": "UPND",
+    "votes": 5590,
+    "margin": 3.56,
+    "totalVotes": 16330,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 5590,
+        "percentage": 34.23
+      },
+      {
+        "party": "PF",
+        "votes": 5008,
+        "percentage": 30.67
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4091,
+        "percentage": 25.05
+      },
+      {
+        "party": "OTHER",
+        "votes": 1641,
+        "percentage": 10.05
+      }
+    ]
+  },
+  "1090132": {
+    "winner": "UPND",
+    "votes": 17996,
+    "margin": 46.6,
+    "totalVotes": 26785,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 17996,
+        "percentage": 67.19
+      },
+      {
+        "party": "PF",
+        "votes": 5515,
+        "percentage": 20.59
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2894,
+        "percentage": 10.8
+      },
+      {
+        "party": "OTHER",
+        "votes": 380,
+        "percentage": 1.42
+      }
+    ]
+  },
+  "1090133": {
+    "winner": "UPND",
+    "votes": 24985,
+    "margin": 61.37,
+    "totalVotes": 32273,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 24985,
+        "percentage": 77.42
+      },
+      {
+        "party": "PF",
+        "votes": 5179,
+        "percentage": 16.05
+      },
+      {
+        "party": "OTHER",
+        "votes": 1128,
+        "percentage": 3.5
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 981,
+        "percentage": 3.04
+      }
+    ]
+  },
+  "1090134": {
+    "winner": "UPND",
+    "votes": 13551,
+    "margin": 4.38,
+    "totalVotes": 29880,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 13551,
+        "percentage": 45.35
+      },
+      {
+        "party": "PF",
+        "votes": 12242,
+        "percentage": 40.97
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 3845,
+        "percentage": 12.87
+      },
+      {
+        "party": "OTHER",
+        "votes": 242,
+        "percentage": 0.81
+      }
+    ]
+  },
+  "1090135": {
+    "winner": "UPND",
+    "votes": 22080,
+    "margin": 35.6,
+    "totalVotes": 36956,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 22080,
+        "percentage": 59.75
+      },
+      {
+        "party": "PF",
+        "votes": 8923,
+        "percentage": 24.14
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4220,
+        "percentage": 11.42
+      },
+      {
+        "party": "OTHER",
+        "votes": 1733,
+        "percentage": 4.69
+      }
+    ]
+  },
+  "1090136": {
+    "winner": "UPND",
+    "votes": 23489,
+    "margin": 11.33,
+    "totalVotes": 46055,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 23489,
+        "percentage": 51.0
+      },
+      {
+        "party": "PF",
+        "votes": 18270,
+        "percentage": 39.67
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2528,
+        "percentage": 5.49
+      },
+      {
+        "party": "OTHER",
+        "votes": 1768,
+        "percentage": 3.84
+      }
+    ]
+  },
+  "1090137": {
+    "winner": "UPND",
+    "votes": 15363,
+    "margin": 20.47,
+    "totalVotes": 28388,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 15363,
+        "percentage": 54.12
+      },
+      {
+        "party": "PF",
+        "votes": 9553,
+        "percentage": 33.65
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 3188,
+        "percentage": 11.23
+      },
+      {
+        "party": "OTHER",
+        "votes": 284,
+        "percentage": 1.0
+      }
+    ]
+  },
+  "1100138": {
+    "winner": "UPND",
+    "votes": 13569,
+    "margin": 9.49,
+    "totalVotes": 28791,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 13569,
+        "percentage": 47.13
+      },
+      {
+        "party": "PF",
+        "votes": 10836,
+        "percentage": 37.64
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 3129,
+        "percentage": 10.87
+      },
+      {
+        "party": "OTHER",
+        "votes": 1257,
+        "percentage": 4.37
+      }
+    ]
+  },
+  "1100139": {
+    "winner": "UPND",
+    "votes": 18069,
+    "margin": 24.87,
+    "totalVotes": 31988,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 18069,
+        "percentage": 56.49
+      },
+      {
+        "party": "PF",
+        "votes": 10112,
+        "percentage": 31.61
+      },
+      {
+        "party": "OTHER",
+        "votes": 1939,
+        "percentage": 6.06
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1868,
+        "percentage": 5.84
+      }
+    ]
+  },
+  "1100140": {
+    "winner": "UPND",
+    "votes": 24358,
+    "margin": 36.24,
+    "totalVotes": 39840,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 24358,
+        "percentage": 61.14
+      },
+      {
+        "party": "PF",
+        "votes": 9919,
+        "percentage": 24.9
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4078,
+        "percentage": 10.24
+      },
+      {
+        "party": "OTHER",
+        "votes": 1485,
+        "percentage": 3.73
+      }
+    ]
+  },
+  "1100141": {
+    "winner": "UPND",
+    "votes": 11830,
+    "margin": 14.23,
+    "totalVotes": 25426,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 11830,
+        "percentage": 46.53
+      },
+      {
+        "party": "PF",
+        "votes": 8212,
+        "percentage": 32.3
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4316,
+        "percentage": 16.97
+      },
+      {
+        "party": "OTHER",
+        "votes": 1068,
+        "percentage": 4.2
+      }
+    ]
+  },
+  "1100142": {
+    "winner": "UPND",
+    "votes": 22783,
+    "margin": 9.31,
+    "totalVotes": 45173,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 22783,
+        "percentage": 50.43
+      },
+      {
+        "party": "PF",
+        "votes": 18576,
+        "percentage": 41.12
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2573,
+        "percentage": 5.7
+      },
+      {
+        "party": "OTHER",
+        "votes": 1241,
+        "percentage": 2.75
+      }
+    ]
+  },
+  "1100143": {
+    "winner": "PF",
+    "votes": 12801,
+    "margin": 2.41,
+    "totalVotes": 28734,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 12801,
+        "percentage": 44.55
+      },
+      {
+        "party": "UPND",
+        "votes": 12108,
+        "percentage": 42.14
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2660,
+        "percentage": 9.26
+      },
+      {
+        "party": "OTHER",
+        "votes": 1165,
+        "percentage": 4.05
+      }
+    ]
+  },
+  "1100144": {
+    "winner": "PF",
+    "votes": 17619,
+    "margin": 12.28,
+    "totalVotes": 35517,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 17619,
+        "percentage": 49.61
+      },
+      {
+        "party": "UPND",
+        "votes": 13259,
+        "percentage": 37.33
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2981,
+        "percentage": 8.39
+      },
+      {
+        "party": "OTHER",
+        "votes": 1658,
+        "percentage": 4.67
+      }
+    ]
+  },
+  "1100145": {
+    "winner": "UPND",
+    "votes": 13378,
+    "margin": 0.66,
+    "totalVotes": 28725,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 13378,
+        "percentage": 46.57
+      },
+      {
+        "party": "PF",
+        "votes": 13188,
+        "percentage": 45.91
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1292,
+        "percentage": 4.5
+      },
+      {
+        "party": "OTHER",
+        "votes": 867,
+        "percentage": 3.02
+      }
+    ]
+  },
+  "1100146": {
+    "winner": "UPND",
+    "votes": 9710,
+    "margin": 24.06,
+    "totalVotes": 20069,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 9710,
+        "percentage": 48.38
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4882,
+        "percentage": 24.33
+      },
+      {
+        "party": "PF",
+        "votes": 3792,
+        "percentage": 18.89
+      },
+      {
+        "party": "OTHER",
+        "votes": 1685,
+        "percentage": 8.4
+      }
+    ]
+  },
+  "1100147": {
+    "winner": "UPND",
+    "votes": 14749,
+    "margin": 41.6,
+    "totalVotes": 22949,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 14749,
+        "percentage": 64.27
+      },
+      {
+        "party": "PF",
+        "votes": 5202,
+        "percentage": 22.67
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1777,
+        "percentage": 7.74
+      },
+      {
+        "party": "OTHER",
+        "votes": 1221,
+        "percentage": 5.32
+      }
+    ]
+  },
+  "1100148": {
+    "winner": "PF",
+    "votes": 18019,
+    "margin": 47.92,
+    "totalVotes": 26704,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 18019,
+        "percentage": 67.48
+      },
+      {
+        "party": "UPND",
+        "votes": 5222,
+        "percentage": 19.56
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2559,
+        "percentage": 9.58
+      },
+      {
+        "party": "OTHER",
+        "votes": 904,
+        "percentage": 3.39
+      }
+    ]
+  },
+  "1100149": {
+    "winner": "UPND",
+    "votes": 19862,
+    "margin": 13.94,
+    "totalVotes": 37055,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 19862,
+        "percentage": 53.6
+      },
+      {
+        "party": "PF",
+        "votes": 14698,
+        "percentage": 39.67
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 2352,
+        "percentage": 6.35
+      },
+      {
+        "party": "OTHER",
+        "votes": 143,
+        "percentage": 0.39
+      }
+    ]
+  },
+  "1100150": {
+    "winner": "PF",
+    "votes": 11154,
+    "margin": 10.23,
+    "totalVotes": 21810,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 11154,
+        "percentage": 51.14
+      },
+      {
+        "party": "UPND",
+        "votes": 8922,
+        "percentage": 40.91
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1275,
+        "percentage": 5.85
+      },
+      {
+        "party": "OTHER",
+        "votes": 459,
+        "percentage": 2.1
+      }
+    ]
+  },
+  "1100151": {
+    "winner": "UPND",
+    "votes": 14636,
+    "margin": 47.24,
+    "totalVotes": 23322,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 14636,
+        "percentage": 62.76
+      },
+      {
+        "party": "PF",
+        "votes": 3619,
+        "percentage": 15.52
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 3257,
+        "percentage": 13.97
+      },
+      {
+        "party": "OTHER",
+        "votes": 1810,
+        "percentage": 7.76
+      }
+    ]
+  },
+  "1100152": {
+    "winner": "UPND",
+    "votes": 14125,
+    "margin": 49.39,
+    "totalVotes": 20378,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 14125,
+        "percentage": 69.31
+      },
+      {
+        "party": "PF",
+        "votes": 4061,
+        "percentage": 19.93
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1859,
+        "percentage": 9.12
+      },
+      {
+        "party": "OTHER",
+        "votes": 333,
+        "percentage": 1.63
+      }
+    ]
+  },
+  "1100153": {
+    "winner": "UPND",
+    "votes": 17409,
+    "margin": 49.58,
+    "totalVotes": 26043,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 17409,
+        "percentage": 66.85
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4498,
+        "percentage": 17.27
+      },
+      {
+        "party": "PF",
+        "votes": 3895,
+        "percentage": 14.96
+      },
+      {
+        "party": "OTHER",
+        "votes": 241,
+        "percentage": 0.93
+      }
+    ]
+  },
+  "1100154": {
+    "winner": "UPND",
+    "votes": 23547,
+    "margin": 40.55,
+    "totalVotes": 35349,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 23547,
+        "percentage": 66.61
+      },
+      {
+        "party": "PF",
+        "votes": 9214,
+        "percentage": 26.07
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 1829,
+        "percentage": 5.17
+      },
+      {
+        "party": "OTHER",
+        "votes": 759,
+        "percentage": 2.15
+      }
+    ]
+  },
+  "1100155": {
+    "winner": "UPND",
+    "votes": 16416,
+    "margin": 2.43,
+    "totalVotes": 36418,
+    "results": [
+      {
+        "party": "UPND",
+        "votes": 16416,
+        "percentage": 45.08
+      },
+      {
+        "party": "PF",
+        "votes": 15532,
+        "percentage": 42.65
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4000,
+        "percentage": 10.98
+      },
+      {
+        "party": "OTHER",
+        "votes": 470,
+        "percentage": 1.29
+      }
+    ]
+  },
+  "1100156": {
+    "winner": "PF",
+    "votes": 12875,
+    "margin": 8.66,
+    "totalVotes": 28331,
+    "results": [
+      {
+        "party": "PF",
+        "votes": 12875,
+        "percentage": 45.44
+      },
+      {
+        "party": "UPND",
+        "votes": 10422,
+        "percentage": 36.79
+      },
+      {
+        "party": "INDEPENDENT",
+        "votes": 4325,
+        "percentage": 15.27
+      },
+      {
+        "party": "OTHER",
+        "votes": 709,
+        "percentage": 2.5
+      }
+    ]
+  }
+}
