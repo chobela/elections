@@ -1,5 +1,5 @@
 import React from 'react';
-import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
+import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, Cell } from 'recharts';
 
 const ResultsSummary = ({ electionResults }) => {
   // Calculate summary statistics
@@ -49,9 +49,23 @@ const ResultsSummary = ({ electionResults }) => {
 
   const partyColors = {
     'UPND': '#e74c3c',
-    'PF': '#3498db',
-    'INDEPENDENT': '#95a5a6',
-    'OTHER': '#f39c12'
+    'PF': '#27ae60',
+    'MMD': '#f39c12',
+    'UNIP': '#9b59b6',
+    'DP': '#3498db',
+    'SP': '#e67e22',
+    'PNUP': '#1abc9c',
+    'PAC': '#34495e',
+    'NHP': '#16a085',
+    'NAREP': '#8e44ad',
+    'UPPZ': '#c0392b',
+    'ZUSD': '#2c3e50',
+    'PEP': '#d35400',
+    'EFF': '#7f8c8d',
+    'LM': '#2980b9',
+    '3RD LM': '#95a5a6',
+    'INDEPENDENT': '#bdc3c7',
+    'OTHER': '#ecf0f1'
   };
 
   return (
@@ -139,7 +153,11 @@ const ResultsSummary = ({ electionResults }) => {
               <YAxis />
               <Tooltip />
               <Legend />
-              <Bar dataKey="seats" fill="#3498db" name="Seats Won" />
+              <Bar dataKey="seats" name="Seats Won">
+                {chartData.map((entry, index) => (
+                  <Cell key={`cell-${index}`} fill={partyColors[entry.party] || '#e0e0e0'} />
+                ))}
+              </Bar>
             </BarChart>
           </ResponsiveContainer>
         </div>

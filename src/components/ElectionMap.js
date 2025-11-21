@@ -110,10 +110,24 @@ const ElectionMap = ({ electionResults }) => {
     if (!properties.winner) return "#e0e0e0";
 
     const colors = {
-      UPND: "#d40d0d", // Red
-      PF: "#009900", // Green
-      INDEPENDENT: "#95a5a6", // Gray
-      OTHER: "#f39c12", // Orange
+      UPND: "#e74c3c", // Red
+      PF: "#27ae60", // Green
+      MMD: "#f39c12", // Orange
+      UNIP: "#9b59b6", // Purple
+      DP: "#3498db", // Blue
+      SP: "#e67e22", // Carrot Orange
+      PNUP: "#1abc9c", // Turquoise
+      PAC: "#34495e", // Dark Gray
+      NHP: "#16a085", // Green Sea
+      NAREP: "#8e44ad", // Wisteria
+      UPPZ: "#c0392b", // Pomegranate
+      ZUSD: "#2c3e50", // Midnight Blue
+      PEP: "#d35400", // Pumpkin
+      EFF: "#7f8c8d", // Asbestos
+      LM: "#2980b9", // Belize Hole
+      "3RD LM": "#95a5a6", // Concrete
+      INDEPENDENT: "#bdc3c7", // Silver
+      OTHER: "#ecf0f1", // Clouds
     };
 
     return colors[properties.winner] || "#e0e0e0";
@@ -342,54 +356,45 @@ const ElectionMap = ({ electionResults }) => {
           borderRadius: "8px",
           boxShadow: "0 2px 10px rgba(0,0,0,0.2)",
           zIndex: 1,
+          maxHeight: "80vh",
+          overflowY: "auto",
         }}
       >
-        <h4 style={{ margin: "0 0 10px 0", fontSize: "14px" }}>Party</h4>
-        <div style={{ display: "flex", flexDirection: "column", gap: "8px" }}>
-          <div style={{ display: "flex", alignItems: "center", gap: "8px" }}>
-            <div
-              style={{
-                width: "20px",
-                height: "20px",
-                background: "#e74c3c",
-                borderRadius: "3px",
-              }}
-            />
-            <span style={{ fontSize: "12px" }}>UPND</span>
-          </div>
-          <div style={{ display: "flex", alignItems: "center", gap: "8px" }}>
-            <div
-              style={{
-                width: "20px",
-                height: "20px",
-                background: "#239e0aff",
-                borderRadius: "3px",
-              }}
-            />
-            <span style={{ fontSize: "12px" }}>PF</span>
-          </div>
-          <div style={{ display: "flex", alignItems: "center", gap: "8px" }}>
-            <div
-              style={{
-                width: "20px",
-                height: "20px",
-                background: "#95a5a6",
-                borderRadius: "3px",
-              }}
-            />
-            <span style={{ fontSize: "12px" }}>Independent</span>
-          </div>
-          <div style={{ display: "flex", alignItems: "center", gap: "8px" }}>
-            <div
-              style={{
-                width: "20px",
-                height: "20px",
-                background: "#e0e0e0",
-                borderRadius: "3px",
-              }}
-            />
-            <span style={{ fontSize: "12px" }}>No Data</span>
-          </div>
+        <h4 style={{ margin: "0 0 10px 0", fontSize: "14px" }}>Parties</h4>
+        <div style={{ display: "flex", flexDirection: "column", gap: "6px" }}>
+          {[
+            { name: "UPND", color: "#e74c3c" },
+            { name: "PF", color: "#27ae60" },
+            { name: "MMD", color: "#f39c12" },
+            { name: "UNIP", color: "#9b59b6" },
+            { name: "DP", color: "#3498db" },
+            { name: "SP", color: "#e67e22" },
+            { name: "PNUP", color: "#1abc9c" },
+            { name: "PAC", color: "#34495e" },
+            { name: "NHP", color: "#16a085" },
+            { name: "NAREP", color: "#8e44ad" },
+            { name: "UPPZ", color: "#c0392b" },
+            { name: "ZUSD", color: "#2c3e50" },
+            { name: "PEP", color: "#d35400" },
+            { name: "EFF", color: "#7f8c8d" },
+            { name: "LM", color: "#2980b9" },
+            { name: "3RD LM", color: "#95a5a6" },
+            { name: "Independent", color: "#bdc3c7" },
+            { name: "No Data", color: "#e0e0e0" },
+          ].map(({ name, color }) => (
+            <div key={name} style={{ display: "flex", alignItems: "center", gap: "8px" }}>
+              <div
+                style={{
+                  width: "16px",
+                  height: "16px",
+                  background: color,
+                  borderRadius: "3px",
+                  flexShrink: 0,
+                }}
+              />
+              <span style={{ fontSize: "11px" }}>{name}</span>
+            </div>
+          ))}
         </div>
       </div>
 
